@@ -1,0 +1,7 @@
+<map id="ChannelManager::ChannelManager" name="ChannelManager::ChannelManager">
+<area shape="rect" id="Node000001" title="Private constructor for ChannelManager to implement the singleton pattern." alt="" coords="5,31,229,57"/>
+<area shape="rect" id="Node000002" href="$class_event_queue_a93dcf2ab540028032d013a802ddeace3.html#a93dcf2ab540028032d013a802ddeace3" title=" " alt="" coords="277,5,448,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,30,261,26,261,32,229,35"/>
+<area shape="rect" id="Node000003" href="$class_event_queue_a183a4bc6de3a3c08b913b0a0a336d0d4.html#a183a4bc6de3a3c08b913b0a0a336d0d4" title=" " alt="" coords="288,56,437,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,53,273,57,272,63,229,58"/>
+</map>

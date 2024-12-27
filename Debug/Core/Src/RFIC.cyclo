@@ -1,0 +1,15 @@
+../Core/Src/RFIC.cpp:80:6:bool RFIC::sendCmd(uint8_t, void*, uint8_t, void*, uint8_t)	7
+../Core/Src/RFIC.cpp:29:1:RFIC::RFIC(GPIO_TypeDef*, uint32_t, GPIO_TypeDef*, uint32_t, GPIO_TypeDef*, uint32_t, GPIO_TypeDef*, uint32_t, int)	4
+../Core/Src/RFIC.cpp:61:1:RFIC::~RFIC()	1
+../Core/Src/RFIC.cpp:61:1:virtual RFIC::~RFIC()	1
+../Core/Src/RFIC.cpp:75:6:bool RFIC::isResponsive()	1
+../Core/Src/RFIC.cpp:80:6:bool RFIC::sendCmd(uint8_t, void*, uint8_t, void*, uint8_t)	10
+../Core/Src/RFIC.cpp:113:6:bool RFIC::sendCmdNoWait(uint8_t, void*, uint8_t)	5
+../Core/Src/RFIC.cpp:139:6:bool RFIC::readSPIResponse(void*, uint8_t)	5
+../Core/Src/RFIC.cpp:198:6:void RFIC::setXOTrimValue(uint8_t)	5
+../Core/Src/RFIC.cpp:164:6:virtual void RFIC::configure()	11
+../Core/Src/RFIC.cpp:210:10:uint16_t RFIC::partNumber()	1
+../Core/Src/RFIC.cpp:215:6:bool RFIC::isInitialized()	1
+../Core/Src/RFIC.cpp:235:6:bool RFIC::powerOnReset()	3
+../Core/Src/RFIC.cpp:259:9:uint8_t RFIC::readRSSI()	2
+../Core/Src/RFIC.cpp:272:6:bool RFIC::checkStatus()	1

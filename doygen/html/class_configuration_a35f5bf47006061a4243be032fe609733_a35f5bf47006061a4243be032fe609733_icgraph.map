@@ -1,0 +1,16 @@
+<map id="Configuration::reportStationData" name="Configuration::reportStationData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="735,56,941,83"/>
+<area shape="rect" id="Node000002" href="$class_configuration_a83a5078966294216bb61a4dae6d42e0e.html#a83a5078966294216bb61a4dae6d42e0e" title=" " alt="" coords="527,5,648,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="753,55,648,33,649,28,754,50"/>
+<area shape="rect" id="Node000005" href="$class_command_processor_a5007e78542ac1a704e87d1baefb134ae.html#a5007e78542ac1a704e87d1baefb134ae" title="Processes a given command string." alt="" coords="247,77,440,120"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="720,79,441,96,440,90,720,74"/>
+<area shape="rect" id="Node000007" href="$class_configuration_aae8ebcbb37370a5dd6ec33158428baa9.html#aae8ebcbb37370a5dd6ec33158428baa9" title=" " alt="" coords="488,107,687,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="754,89,658,109,657,103,753,84"/>
+<area shape="rect" id="Node000003" href="$main_8cpp_a0dcdcf298c511db74358109fc74547fa.html#a0dcdcf298c511db74358109fc74547fa" title=" " alt="" coords="305,5,382,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="511,21,383,21,383,16,511,16"/>
+<area shape="rect" id="Node000004" href="$main_8cpp_a840291bc02cba5474a4cb46a9b9566fe.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="77,5,127,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="289,21,127,21,127,16,289,16"/>
+<area shape="rect" id="Node000006" href="$class_command_processor_ac33b101c0ddabc2a7512f8926c81375b.html#ac33b101c0ddabc2a7512f8926c81375b" title="Processes an incoming event." alt="" coords="5,77,199,120"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="231,101,199,101,199,96,231,96"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="472,113,440,110,441,104,473,107"/>
+</map>

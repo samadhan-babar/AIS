@@ -1,0 +1,45 @@
+<map id="Configuration::reportSystemData" name="Configuration::reportSystemData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,233,215,260"/>
+<area shape="rect" id="Node000002" href="$class_configuration_aa0b59f2fabbee954328e79aa1d356991.html#aa0b59f2fabbee954328e79aa1d356991" title=" " alt="" coords="263,5,445,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,232,135,194,166,142,209,88,234,63,261,42,269,37,272,41,264,46,237,67,213,92,171,146,139,196,120,234"/>
+<area shape="rect" id="Node000003" href="$class_utils_a56d06c523e71effbb9e6f87b93592536.html#a56d06c523e71effbb9e6f87b93592536" title=" " alt="" coords="281,56,427,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="119,231,174,165,215,126,261,92,272,87,275,91,264,97,218,130,178,169,123,235"/>
+<area shape="rect" id="Node000004" href="$class_configuration_af00c95e0765458316cd0f1f494f223db.html#af00c95e0765458316cd0f1f494f223db" title=" " alt="" coords="283,107,425,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="126,231,184,188,222,164,262,143,278,136,280,141,264,148,224,169,187,192,130,235"/>
+<area shape="rect" id="Node000006" href="$class_event_queue_a183a4bc6de3a3c08b913b0a0a336d0d4.html#a183a4bc6de3a3c08b913b0a0a336d0d4" title=" " alt="" coords="280,208,428,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="215,233,264,228,264,233,215,238"/>
+<area shape="rect" id="Node000007" href="$class_event_pool_a345d331d74745532e20cc0da3e9da518.html#a345d331d74745532e20cc0da3e9da518" title=" " alt="" coords="503,309,639,336"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="146,258,200,278,263,295,380,312,487,319,487,324,379,317,262,300,199,283,144,263"/>
+<area shape="rect" id="Node000008" href="$class_configuration_acd72d3a1324c1d391dd44a8ce7b24633.html#acd72d3a1324c1d391dd44a8ce7b24633" title=" " alt="" coords="266,411,442,453"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="124,259,179,324,219,362,264,396,272,401,269,406,261,401,216,366,175,327,120,262"/>
+<area shape="rect" id="Node000009" href="$class_configuration_a121faab374689e6ae0a13ac516dcb576.html#a121faab374689e6ae0a13ac516dcb576" title=" " alt="" coords="275,477,433,504"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="119,259,138,300,169,355,211,413,236,440,264,463,272,468,269,472,261,467,233,444,207,417,164,358,133,302,114,262"/>
+<area shape="rect" id="Node000010" href="$class_event_pool_ab11e60165656378fbb1a152ccde56322.html#ab11e60165656378fbb1a152ccde56322" title=" " alt="" coords="283,259,425,285"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="215,255,267,260,267,266,215,260"/>
+<area shape="rect" id="Node000015" href="$class_event_queue_a1779e64ae6645cab47f90726f77ff340.html#a1779e64ae6645cab47f90726f77ff340" title=" " alt="" coords="290,360,418,387"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="132,258,190,297,264,339,294,352,292,357,261,344,187,302,129,263"/>
+<area shape="rect" id="Node000020" href="$class_configuration_aa0bfcdd291b0e42cdb78b9cf3b814e56.html#aa0bfcdd291b0e42cdb78b9cf3b814e56" title=" " alt="" coords="279,157,429,184"/>
+<area shape="poly" id="edge22_Node000001_Node000020" title=" " alt="" coords="150,230,262,193,286,186,288,191,263,199,152,235"/>
+<area shape="rect" id="Node000005" href="$class_configuration_ac03be3cb267ac69837ffca1439a0451a.html#ac03be3cb267ac69837ffca1439a0451a" title=" " alt="" coords="493,132,648,159"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="425,126,478,132,477,137,424,131"/>
+<area shape="rect" id="Node000011" href="$class_object_pool_a5dbf3e90e1af15475b9fbbfd4b1ebdde.html#a5dbf3e90e1af15475b9fbbfd4b1ebdde" title=" " alt="" coords="515,208,626,235"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="414,255,499,235,500,240,415,261"/>
+<area shape="rect" id="Node000014" href="$class_utils_a7787204fd1ab32b5c46ecc9dcd4ea70f.html#a7787204fd1ab32b5c46ecc9dcd4ea70f" title=" " alt="" coords="528,259,614,285"/>
+<area shape="poly" id="edge13_Node000010_Node000014" title=" " alt="" coords="425,269,512,269,512,275,425,275"/>
+<area shape="rect" id="Node000012" href="$class_circular_queue_a59d3c58687ece5cf2786007e2a76925c.html#a59d3c58687ece5cf2786007e2a76925c" title="Pops an element from the circular queue." alt="" coords="696,208,829,235"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="627,219,681,219,681,224,627,224"/>
+<area shape="rect" id="Node000013" href="$class_circular_queue_a53902e1ca611014a0c27b95c25b49c6e.html#a53902e1ca611014a0c27b95c25b49c6e" title="Checks if the circular queue is empty." alt="" coords="877,208,1024,235"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="829,219,861,219,861,224,829,224"/>
+<area shape="poly" id="edge20_Node000015_Node000007" title=" " alt="" coords="414,357,495,338,496,343,415,362"/>
+<area shape="poly" id="edge19_Node000015_Node000014" title=" " alt="" coords="376,357,428,327,492,295,512,287,514,292,494,300,431,332,379,362"/>
+<area shape="rect" id="Node000016" href="$class_event_pool_a24beccee9637c5dfc7b2db4fe4b3c571.html#a24beccee9637c5dfc7b2db4fe4b3c571" title=" " alt="" coords="494,360,648,387"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="418,371,478,371,478,376,418,376"/>
+<area shape="rect" id="Node000018" href="$class_circular_queue_a1a8861e8fb473f5b5164507e84624f3d.html#a1a8861e8fb473f5b5164507e84624f3d" title="Pushes an element onto the circular queue." alt="" coords="881,385,1020,412"/>
+<area shape="poly" id="edge21_Node000015_Node000018" title=" " alt="" coords="418,385,493,396,593,402,693,404,865,401,865,406,693,409,593,408,493,401,417,390"/>
+<area shape="rect" id="Node000017" href="$class_object_pool_aff8f96c2487da234a53c10850d7eb511.html#aff8f96c2487da234a53c10850d7eb511" title=" " alt="" coords="707,360,818,387"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="648,371,692,371,692,376,648,376"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="819,378,865,385,865,390,818,383"/>
+<area shape="rect" id="Node000019" href="$class_circular_queue_a454dc438e062f8af8bb576a57b7a32a6.html#a454dc438e062f8af8bb576a57b7a32a6" title="Checks if it is safe to write to the next position." alt="" coords="1072,385,1264,412"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="1020,396,1056,396,1056,401,1020,401"/>
+<area shape="poly" id="edge23_Node000020_Node000005" title=" " alt="" coords="429,159,477,154,478,159,429,165"/>
+</map>

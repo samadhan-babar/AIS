@@ -1,0 +1,13 @@
+../Core/Src/CommandProcessor.cpp:48:27:void __tcf_0()	0	static
+../Core/Inc/CommandProcessor.hpp:43:7:CommandProcessor::~CommandProcessor()	0	static
+../Core/Inc/CommandProcessor.hpp:43:7:virtual CommandProcessor::~CommandProcessor()	8	static
+../Core/Src/CommandProcessor.cpp:47:20:static CommandProcessor& CommandProcessor::instance()	16	static
+../Core/Src/CommandProcessor.cpp:52:6:void CommandProcessor::init()	0	static
+../Core/Src/CommandProcessor.cpp:56:1:CommandProcessor::CommandProcessor()	8	static
+../Core/Src/CommandProcessor.cpp:70:6:void fireTestPacket()	16	static
+../Core/Src/CommandProcessor.cpp:208:6:void CommandProcessor::enterCLIMode()	0	static
+../Core/Src/CommandProcessor.cpp:213:6:void CommandProcessor::jumpToBootloader()	0	static
+../Core/Src/CommandProcessor.cpp:218:6:void CommandProcessor::dumpOTPData()	8	static
+../Core/Src/CommandProcessor.cpp:222:6:void CommandProcessor::writeOTPData(const std::string&)	120	static
+../Core/Src/CommandProcessor.cpp:93:6:void CommandProcessor::processCommand(const char*)	160	static
+../Core/Src/CommandProcessor.cpp:60:6:virtual void CommandProcessor::processEvent(const Event&)	0	static

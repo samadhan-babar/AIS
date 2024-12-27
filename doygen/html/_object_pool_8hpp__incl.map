@@ -1,0 +1,30 @@
+<map id="D:/Organised/Development/C CPP/STM32 WorkSpace/ais_transponder/Core/Inc/ObjectPool.hpp" name="D:/Organised/Development/C CPP/STM32 WorkSpace/ais_transponder/Core/Inc/ObjectPool.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="122,5,305,80"/>
+<area shape="rect" id="Node000002" href="$printf__serial_8h.html" title=" " alt="" coords="208,128,307,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,79,248,113,243,115,228,81"/>
+<area shape="rect" id="Node000008" href="$__assert_8h.html" title="Header file for assertion macros in the Marine Automatic Identification System firmware." alt="" coords="127,203,202,229"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="205,81,174,189,169,187,200,80"/>
+<area shape="rect" id="Node000009" href="$_circular_queue_8hpp.html" title="Defines a template&#45;based circular queue class for managing buffered data." alt="" coords="5,128,134,155"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="160,83,102,121,99,117,157,78"/>
+<area shape="rect" id="Node000011" href="$_utils_8hpp.html" title=" " alt="" coords="357,128,430,155"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="283,78,358,118,356,123,281,83"/>
+<area shape="rect" id="Node000003" href="$config_8h.html" title=" " alt="" coords="226,203,292,229"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="260,155,261,187,256,187,255,155"/>
+<area shape="rect" id="Node000004" href="$radio__config_8h.html" title="This file contains the automatically generated configurations." alt="" coords="115,277,216,304"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="244,232,195,270,192,266,241,228"/>
+<area shape="rect" id="Node000006" href="$_t_x_power_settings_8h.html" title=" " alt="" coords="256,277,387,304"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="272,228,303,264,299,267,268,232"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="73,352,138,379"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="157,306,127,342,123,338,153,303"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="365,352,443,379"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="338,303,380,340,377,344,334,307"/>
+<area shape="poly" id="edge9_Node000009_Node000005" title=" " alt="" coords="58,157,40,177,25,204,23,216,25,229,37,260,53,289,87,338,83,341,48,292,32,262,20,230,18,216,20,202,35,174,54,153"/>
+<area shape="poly" id="edge11_Node000009_Node000008" title=" " alt="" coords="88,153,137,191,134,195,84,157"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="35,203,102,229"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="72,155,71,187,66,187,67,155"/>
+<area shape="poly" id="edge15_Node000011_Node000007" title=" " alt="" coords="417,153,443,173,464,201,470,220,471,240,463,278,446,313,427,341,422,338,441,310,458,276,465,239,464,221,459,204,439,177,414,157"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="316,203,370,229"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="387,157,362,192,358,189,382,154"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="394,203,449,229"/>
+<area shape="poly" id="edge14_Node000011_Node000013" title=" " alt="" coords="401,154,414,187,409,189,396,156"/>
+</map>

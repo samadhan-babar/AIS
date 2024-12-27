@@ -1,0 +1,11 @@
+../Core/Src/Events.cpp:31:1:Event::Event()	1
+../Core/Src/Events.cpp:62:1:EventPool::EventPool()	16
+../Core/Src/Events.cpp:55:12:static EventPool& EventPool::instance()	3
+../Core/Src/Events.cpp:36:6:void Event::reset()	7
+../Core/Src/Events.cpp:68:6:void EventPool::init()	1
+../Core/Src/Events.cpp:72:8:Event* EventPool::newEvent(EventType)	9
+../Core/Src/Events.cpp:107:6:void EventPool::deleteEvent(Event*)	11
+../Core/Src/Events.cpp:117:10:uint32_t EventPool::maxUtilization()	1
+../Core/Src/Events.cpp:122:10:uint32_t EventPool::utilization()	1
+../Core/Src/Events.cpp:127:11:RXPacket* EventPool::newRXPacket()	3
+../Core/Src/Events.cpp:134:6:void EventPool::releaseRXPacket(RXPacket*)	3

@@ -1,0 +1,5 @@
+<map id="CircularQueue::pop" name="CircularQueue::pop">
+<area shape="rect" id="Node000001" title="Pops an element from the circular queue." alt="" coords="5,5,138,32"/>
+<area shape="rect" id="Node000002" href="$class_circular_queue_a53902e1ca611014a0c27b95c25b49c6e.html#a53902e1ca611014a0c27b95c25b49c6e" title="Checks if the circular queue is empty." alt="" coords="186,5,333,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,16,170,16,170,21,138,21"/>
+</map>

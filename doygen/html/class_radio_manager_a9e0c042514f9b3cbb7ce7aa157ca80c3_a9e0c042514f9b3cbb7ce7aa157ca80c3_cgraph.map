@@ -1,0 +1,18 @@
+<map id="RadioManager::setXOTrimValue" name="RadioManager::setXOTrimValue">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,68,211,95"/>
+<area shape="rect" id="Node000002" href="$class_r_f_i_c_a3b6969ad9ce56311e4aed207d578aa19.html#a3b6969ad9ce56311e4aed207d578aa19" title=" " alt="" coords="259,68,410,95"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,79,243,79,243,84,211,84"/>
+<area shape="rect" id="Node000003" href="$class_r_f_i_c_a1288d76fe38aab8db851b3f12b9c1d4f.html#a1288d76fe38aab8db851b3f12b9c1d4f" title=" " alt="" coords="458,68,571,95"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="410,79,442,79,442,84,410,84"/>
+<area shape="rect" id="Node000004" href="$bsp__11__3_8cpp_a304de54839868902b631ab144ca3f7a1.html#a304de54839868902b631ab144ca3f7a1" title=" " alt="" coords="830,5,946,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="536,65,574,45,619,28,669,18,720,13,814,11,814,17,721,18,670,24,620,33,576,50,539,70"/>
+<area shape="rect" id="Node000005" href="$class_r_f_i_c_a43699a2a43a2995e4b19dfb51ef0bcf4.html#a43699a2a43a2995e4b19dfb51ef0bcf4" title=" " alt="" coords="619,43,782,69"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="572,71,604,67,604,72,572,76"/>
+<area shape="rect" id="Node000006" href="$class_r_f_i_c_a03f359e05504230230b7658d5b8b7e12.html#a03f359e05504230230b7658d5b8b7e12" title=" " alt="" coords="842,68,934,95"/>
+<area shape="poly" id="edge8_Node000003_Node000006" title=" " alt="" coords="572,79,827,79,827,84,572,84"/>
+<area shape="rect" id="Node000007" href="$class_r_f_i_c_a64d4f0650961dcaf9958e5f2f56e4c36.html#a64d4f0650961dcaf9958e5f2f56e4c36" title=" " alt="" coords="842,131,934,157"/>
+<area shape="poly" id="edge9_Node000003_Node000007" title=" " alt="" coords="572,88,827,131,826,136,571,93"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="770,39,814,31,815,36,771,45"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="783,64,827,71,827,76,782,70"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="732,68,845,121,843,126,730,72"/>
+</map>

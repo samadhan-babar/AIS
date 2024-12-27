@@ -1,0 +1,35 @@
+<map id="D:/Organised/Development/C CPP/STM32 WorkSpace/ais_transponder/Core/Src/bsp/bsp_10_0.cpp" name="D:/Organised/Development/C CPP/STM32 WorkSpace/ais_transponder/Core/Src/bsp/bsp_10_0.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="474,5,656,80"/>
+<area shape="rect" id="Node000002" href="$_src_2bsp_2bsp_8hpp.html" title=" " alt="" coords="338,128,405,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="492,83,411,123,409,118,490,78"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="573,128,690,155"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="592,79,616,113,612,116,588,82"/>
+<area shape="rect" id="Node000014" href="$printf__serial_8h.html" title=" " alt="" coords="450,128,549,155"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="542,82,519,116,514,113,538,79"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="714,128,778,155"/>
+<area shape="poly" id="edge18_Node000001_Node000015" title=" " alt="" coords="635,78,710,118,708,123,633,83"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="507,352,572,379"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="378,154,409,232,428,274,446,302,470,325,498,342,495,347,467,329,441,306,423,277,404,234,373,156"/>
+<area shape="rect" id="Node000004" href="$config_8h.html" title=" " alt="" coords="477,203,543,229"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="397,153,474,193,471,197,394,158"/>
+<area shape="rect" id="Node000008" href="$_station_data_8h.html" title=" " alt="" coords="280,203,380,229"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="367,157,347,191,342,188,362,154"/>
+<area shape="rect" id="Node000011" href="$_config_flags_8h.html" title=" " alt="" coords="5,203,106,229"/>
+<area shape="poly" id="edge13_Node000002_Node000011" title=" " alt="" coords="338,153,122,202,120,197,337,148"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="129,203,257,229"/>
+<area shape="poly" id="edge14_Node000002_Node000012" title=" " alt="" coords="341,158,239,199,237,194,339,153"/>
+<area shape="rect" id="Node000005" href="$radio__config_8h.html" title="This file contains the automatically generated configurations." alt="" coords="610,277,712,304"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="538,227,622,268,620,273,535,232"/>
+<area shape="rect" id="Node000006" href="$_t_x_power_settings_8h.html" title=" " alt="" coords="456,277,586,304"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="515,229,519,262,514,262,509,230"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="641,307,575,346,572,341,638,302"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="206,352,284,379"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="473,307,299,353,298,347,472,302"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="283,233,222,254,197,266,182,279,177,295,183,311,196,327,213,341,209,345,192,330,178,313,172,295,177,276,194,262,220,249,282,227"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="323,277,380,304"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="336,229,346,262,341,263,331,231"/>
+<area shape="rect" id="Node000010" href="$_a_i_s_channels_8h.html" title="Defines AIS VHF channel mappings and utilities for Marine Automatic Identification System firmware." alt="" coords="191,277,299,304"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="317,232,273,269,269,265,314,228"/>
+<area shape="poly" id="edge12_Node000010_Node000007" title=" " alt="" coords="248,305,248,336,242,336,242,305"/>
+<area shape="poly" id="edge17_Node000014_Node000004" title=" " alt="" coords="504,155,509,187,503,188,499,156"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Receiver::Receiver" name="Receiver::Receiver">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,133,57"/>
+<area shape="rect" id="Node000002" href="$class_event_pool_a345d331d74745532e20cc0da3e9da518.html#a345d331d74745532e20cc0da3e9da518" title=" " alt="" coords="196,5,333,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,33,180,27,181,32,133,38"/>
+<area shape="rect" id="Node000003" href="$class_event_pool_a4aebae6175d0acb1c0fd851fb2ea37f8.html#a4aebae6175d0acb1c0fd851fb2ea37f8" title=" " alt="" coords="181,56,348,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="133,50,165,54,165,59,133,55"/>
+<area shape="rect" id="Node000004" href="$class_object_pool_a5dbf3e90e1af15475b9fbbfd4b1ebdde.html#a5dbf3e90e1af15475b9fbbfd4b1ebdde" title=" " alt="" coords="396,56,507,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="348,67,380,67,380,72,348,72"/>
+<area shape="rect" id="Node000005" href="$class_circular_queue_a59d3c58687ece5cf2786007e2a76925c.html#a59d3c58687ece5cf2786007e2a76925c" title="Pops an element from the circular queue." alt="" coords="555,56,688,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="508,67,540,67,540,72,508,72"/>
+<area shape="rect" id="Node000006" href="$class_circular_queue_a53902e1ca611014a0c27b95c25b49c6e.html#a53902e1ca611014a0c27b95c25b49c6e" title="Checks if the circular queue is empty." alt="" coords="736,56,883,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="688,67,720,67,720,72,688,72"/>
+</map>

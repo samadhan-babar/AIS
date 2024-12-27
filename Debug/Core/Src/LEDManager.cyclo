@@ -1,0 +1,5 @@
+../Core/Src/LEDManager.cpp:37:6:void tickCB()	6
+../Core/Src/LEDManager.cpp:26:1:LEDManager::LEDManager()	1
+../Core/Src/LEDManager.cpp:31:13:static LEDManager& LEDManager::instance()	3
+../Core/Src/LEDManager.cpp:42:6:void LEDManager::init()	2
+../Core/Src/LEDManager.cpp:52:6:void LEDManager::onTick()	4

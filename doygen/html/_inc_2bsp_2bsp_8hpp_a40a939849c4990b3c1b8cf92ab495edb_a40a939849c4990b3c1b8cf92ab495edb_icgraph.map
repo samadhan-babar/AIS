@@ -1,0 +1,9 @@
+<map id="bsp_write_station_data" name="bsp_write_station_data">
+<area shape="rect" id="Node000001" title=" " alt="" coords="735,13,890,40"/>
+<area shape="rect" id="Node000002" href="$class_configuration_aae8ebcbb37370a5dd6ec33158428baa9.html#aae8ebcbb37370a5dd6ec33158428baa9" title=" " alt="" coords="488,13,687,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="720,29,688,29,688,24,720,24"/>
+<area shape="rect" id="Node000003" href="$class_command_processor_a5007e78542ac1a704e87d1baefb134ae.html#a5007e78542ac1a704e87d1baefb134ae" title="Processes a given command string." alt="" coords="247,5,440,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="472,29,440,29,440,24,472,24"/>
+<area shape="rect" id="Node000004" href="$class_command_processor_ac33b101c0ddabc2a7512f8926c81375b.html#ac33b101c0ddabc2a7512f8926c81375b" title="Processes an incoming event." alt="" coords="5,5,199,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="231,29,199,29,199,24,231,24"/>
+</map>

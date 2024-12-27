@@ -1,0 +1,5 @@
+<map id="ConfigPage" name="ConfigPage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="6,96,94,123"/>
+<area shape="rect" id="Node000002" href="$struct_config_flags.html" title=" " alt="" coords="5,5,95,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="53,48,53,95,47,95,47,48"/>
+</map>

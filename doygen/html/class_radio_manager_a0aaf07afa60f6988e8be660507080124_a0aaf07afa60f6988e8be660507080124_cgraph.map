@@ -1,0 +1,25 @@
+<map id="RadioManager::processEvent" name="RadioManager::processEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,208,196,235"/>
+<area shape="rect" id="Node000002" href="$class_radio_manager_afcc2ef1ad021f0d0d8e9db5c21581bdd.html#afcc2ef1ad021f0d0d8e9db5c21581bdd" title=" " alt="" coords="244,5,453,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,206,125,173,155,128,195,81,242,42,252,36,254,41,245,46,198,85,159,131,130,175,111,209"/>
+<area shape="rect" id="Node000003" href="$class_transceiver_ad9cec2059bbce714e3f6bf80b45e6079.html#ad9cec2059bbce714e3f6bf80b45e6079" title=" " alt="" coords="248,56,449,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="111,206,164,150,201,119,242,92,256,86,258,91,245,97,204,123,167,154,115,209"/>
+<area shape="rect" id="Node000004" href="$class_transceiver_a2f87197b0d17fd1f1964a7aae28ea85b.html#a2f87197b0d17fd1f1964a7aae28ea85b" title=" " alt="" coords="255,107,442,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="122,205,176,174,243,143,264,135,266,141,245,148,178,179,125,210"/>
+<area shape="rect" id="Node000006" href="$bsp__11__3_8cpp_a329a8ca34ea8c58fb3b7a8899698bb0f.html#a329a8ca34ea8c58fb3b7a8899698bb0f" title=" " alt="" coords="306,157,391,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="169,205,290,180,291,185,170,210"/>
+<area shape="rect" id="Node000007" href="$class_receiver_a4961b3d87381cec8ecbb3a1ba08fbc8d.html#a4961b3d87381cec8ecbb3a1ba08fbc8d" title=" " alt="" coords="523,259,646,285"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="196,222,319,230,453,244,508,253,507,258,453,249,318,236,196,228"/>
+<area shape="rect" id="Node000008" href="$class_t_x_packet_a9e0daa9ed73aaa4a8265a3df759c0e17.html#a9e0daa9ed73aaa4a8265a3df759c0e17" title=" " alt="" coords="284,259,413,285"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="170,233,269,253,268,258,169,238"/>
+<area shape="rect" id="Node000009" href="$class_circular_queue_a53902e1ca611014a0c27b95c25b49c6e.html#a53902e1ca611014a0c27b95c25b49c6e" title="Checks if the circular queue is empty." alt="" coords="511,385,658,412"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="115,233,166,290,203,321,245,346,307,369,373,384,437,393,495,397,495,402,437,398,372,389,306,374,243,350,200,325,163,293,111,237"/>
+<area shape="rect" id="Node000010" href="$class_circular_queue_a59d3c58687ece5cf2786007e2a76925c.html#a59d3c58687ece5cf2786007e2a76925c" title="Pops an element from the circular queue." alt="" coords="282,411,415,437"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="112,234,161,308,200,352,245,390,270,403,267,407,242,394,196,356,157,311,107,237"/>
+<area shape="rect" id="Node000011" href="$class_receiver_a440487927b7d3ec1d6e2b6aed7eb0046.html#a440487927b7d3ec1d6e2b6aed7eb0046" title=" " alt="" coords="260,309,437,336"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="125,233,178,264,245,295,266,302,264,307,243,300,176,269,122,238"/>
+<area shape="rect" id="Node000005" href="$class_t_x_packet_a093f826dbe9adec282995752d123a33c.html#a093f826dbe9adec282995752d123a33c" title=" " alt="" coords="501,107,667,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="442,117,485,117,485,123,442,123"/>
+<area shape="poly" id="edge10_Node000010_Node000009" title=" " alt="" coords="414,414,495,406,495,411,415,420"/>
+<area shape="poly" id="edge12_Node000011_Node000007" title=" " alt="" coords="413,306,507,286,508,291,415,311"/>
+</map>

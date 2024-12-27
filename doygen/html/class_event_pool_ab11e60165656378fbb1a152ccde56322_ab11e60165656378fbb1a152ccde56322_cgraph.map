@@ -1,0 +1,11 @@
+<map id="EventPool::newEvent" name="EventPool::newEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,148,57"/>
+<area shape="rect" id="Node000002" href="$class_object_pool_a5dbf3e90e1af15475b9fbbfd4b1ebdde.html#a5dbf3e90e1af15475b9fbbfd4b1ebdde" title=" " alt="" coords="196,5,307,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,31,180,26,181,32,148,36"/>
+<area shape="rect" id="Node000005" href="$class_utils_a7787204fd1ab32b5c46ecc9dcd4ea70f.html#a7787204fd1ab32b5c46ecc9dcd4ea70f" title=" " alt="" coords="208,56,295,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="148,52,193,58,192,64,147,57"/>
+<area shape="rect" id="Node000003" href="$class_circular_queue_a59d3c58687ece5cf2786007e2a76925c.html#a59d3c58687ece5cf2786007e2a76925c" title="Pops an element from the circular queue." alt="" coords="355,5,487,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="307,16,339,16,339,21,307,21"/>
+<area shape="rect" id="Node000004" href="$class_circular_queue_a53902e1ca611014a0c27b95c25b49c6e.html#a53902e1ca611014a0c27b95c25b49c6e" title="Checks if the circular queue is empty." alt="" coords="535,5,683,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="488,16,520,16,520,21,488,21"/>
+</map>

@@ -1,0 +1,3 @@
+../Core/Src/main.cpp:33:6:void jump_to_bootloader()	1
+../Core/Src/main.cpp:52:6:void mainLoop()	3
+../Core/Src/main.cpp:101:5:int main()	1

@@ -1,0 +1,9 @@
+../Core/Src/ChannelManager.cpp:27:25:void __tcf_0()	0	static
+../Core/Src/ChannelManager.cpp:38:1:ChannelManager::~ChannelManager()	0	static
+../Core/Src/ChannelManager.cpp:60:6:virtual void ChannelManager::processEvent(const Event&)	0	static
+../Core/Src/ChannelManager.cpp:38:1:virtual ChannelManager::~ChannelManager()	8	static
+../Core/Src/ChannelManager.cpp:25:17:static ChannelManager& ChannelManager::instance()	16	static
+../Core/Src/ChannelManager.cpp:31:1:ChannelManager::ChannelManager()	8	static
+../Core/Src/ChannelManager.cpp:43:20:const ais_channel& ChannelManager::channelA()	0	static
+../Core/Src/ChannelManager.cpp:49:20:const ais_channel& ChannelManager::channelB()	0	static
+../Core/Src/ChannelManager.cpp:54:6:bool ChannelManager::channelsDetermined()	0	static

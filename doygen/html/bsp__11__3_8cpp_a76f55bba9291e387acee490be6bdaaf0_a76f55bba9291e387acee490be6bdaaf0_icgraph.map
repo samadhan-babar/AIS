@@ -1,0 +1,11 @@
+<map id="bsp_gps_led_off" name="bsp_gps_led_off">
+<area shape="rect" id="Node000001" title=" " alt="" coords="556,31,671,57"/>
+<area shape="rect" id="Node000002" href="$class_g_p_s_a7ac9bbb4f45cccf4025b4463363d88a1.html#a7ac9bbb4f45cccf4025b4463363d88a1" title=" " alt="" coords="387,5,485,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="540,36,486,28,486,23,541,31"/>
+<area shape="rect" id="Node000003" href="$class_g_p_s_af890a511d8c808d367b5e2503c0c7669.html#af890a511d8c808d367b5e2503c0c7669" title=" " alt="" coords="364,56,508,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="541,57,509,62,509,56,540,52"/>
+<area shape="rect" id="Node000004" href="$class_g_p_s_a67a98ea80709a857baf2de345254eb3d.html#a67a98ea80709a857baf2de345254eb3d" title=" " alt="" coords="189,56,316,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="349,72,316,72,316,67,349,67"/>
+<area shape="rect" id="Node000005" href="$class_g_p_s_a1f2e05a9408f81b1791c25be4e1af830.html#a1f2e05a9408f81b1791c25be4e1af830" title=" " alt="" coords="5,56,141,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="173,72,141,72,141,67,173,67"/>
+</map>

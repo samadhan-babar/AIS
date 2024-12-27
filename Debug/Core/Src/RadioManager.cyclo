@@ -1,0 +1,25 @@
+../Core/Src/RadioManager.cpp:32:23:void __tcf_0()	1
+../Core/Inc/RadioManager.hpp:33:7:RadioManager::~RadioManager()	1
+../Core/Inc/RadioManager.hpp:33:7:virtual RadioManager::~RadioManager()	1
+../Core/Src/RadioManager.cpp:199:6:virtual void RadioManager::timeSlotStarted(uint32_t)	2
+../Core/Src/RadioManager.cpp:140:6:virtual void RadioManager::processEvent(const Event&)	10
+../Core/Inc/RadioManager.hpp:33:7:virtual void* RadioManager::_ZThn4_N12RadioManagerD1Ev()	1
+../Core/Inc/RadioManager.hpp:33:7:virtual void* RadioManager::_ZThn4_N12RadioManagerD0Ev()	1
+../Core/Src/RadioManager.cpp:246:6:void rxClockCB()	6
+../Core/Src/RadioManager.cpp:251:6:void trxClockCB()	7
+../Core/Inc/RadioManager.hpp:49:8:virtual void RadioManager::_ZThn4_N12RadioManager12processEventERK5Event(const Event&)	10
+../Core/Src/RadioManager.cpp:30:15:static RadioManager& RadioManager::instance()	4
+../Core/Src/RadioManager.cpp:36:1:RadioManager::RadioManager()	2
+../Core/Src/RadioManager.cpp:46:6:bool RadioManager::initialized()	1
+../Core/Src/RadioManager.cpp:51:6:void RadioManager::init()	7
+../Core/Src/RadioManager.cpp:85:6:void RadioManager::setXOTrimValue(uint8_t)	3
+../Core/Src/RadioManager.cpp:94:6:void RadioManager::transmitCW(VHFChannel)	2
+../Core/Src/RadioManager.cpp:100:6:void RadioManager::stopTX()	2
+../Core/Src/RadioManager.cpp:106:6:void RadioManager::start()	3
+../Core/Src/RadioManager.cpp:118:6:void RadioManager::stop()	1
+../Core/Src/RadioManager.cpp:123:6:void RadioManager::reportError(int)	2
+../Core/Src/RadioManager.cpp:134:6:void RadioManager::configureInterrupts()	1
+../Core/Src/RadioManager.cpp:182:12:VHFChannel RadioManager::alternateChannel(VHFChannel)	1
+../Core/Src/RadioManager.cpp:188:6:void RadioManager::onBitClock(uint8_t)	5
+../Core/Src/RadioManager.cpp:208:6:void RadioManager::scheduleTransmission(TXPacket*)	2
+../Core/Src/RadioManager.cpp:238:6:void RadioManager::sendTestPacketNow(TXPacket*)	2

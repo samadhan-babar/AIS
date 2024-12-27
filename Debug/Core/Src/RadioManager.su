@@ -1,0 +1,25 @@
+../Core/Src/RadioManager.cpp:32:23:void __tcf_0()	0	static
+../Core/Inc/RadioManager.hpp:33:7:RadioManager::~RadioManager()	0	static
+../Core/Inc/RadioManager.hpp:33:7:virtual RadioManager::~RadioManager()	8	static
+../Core/Src/RadioManager.cpp:199:6:virtual void RadioManager::timeSlotStarted(uint32_t)	16	static
+../Core/Src/RadioManager.cpp:140:6:virtual void RadioManager::processEvent(const Event&)	16	static,ignoring_inline_asm
+../Core/Inc/RadioManager.hpp:33:7:virtual void* RadioManager::_ZThn4_N12RadioManagerD1Ev()	0	static
+../Core/Inc/RadioManager.hpp:33:7:virtual void* RadioManager::_ZThn4_N12RadioManagerD0Ev()	8	static
+../Core/Src/RadioManager.cpp:246:6:void rxClockCB()	16	static,ignoring_inline_asm
+../Core/Src/RadioManager.cpp:251:6:void trxClockCB()	16	static,ignoring_inline_asm
+../Core/Inc/RadioManager.hpp:49:8:virtual void RadioManager::_ZThn4_N12RadioManager12processEventERK5Event(const Event&)	16	static,ignoring_inline_asm
+../Core/Src/RadioManager.cpp:30:15:static RadioManager& RadioManager::instance()	16	static,ignoring_inline_asm
+../Core/Src/RadioManager.cpp:36:1:RadioManager::RadioManager()	16	static,ignoring_inline_asm
+../Core/Src/RadioManager.cpp:46:6:bool RadioManager::initialized()	0	static
+../Core/Src/RadioManager.cpp:51:6:void RadioManager::init()	40	static
+../Core/Src/RadioManager.cpp:85:6:void RadioManager::setXOTrimValue(uint8_t)	16	static
+../Core/Src/RadioManager.cpp:94:6:void RadioManager::transmitCW(VHFChannel)	0	static
+../Core/Src/RadioManager.cpp:100:6:void RadioManager::stopTX()	0	static
+../Core/Src/RadioManager.cpp:106:6:void RadioManager::start()	8	static
+../Core/Src/RadioManager.cpp:118:6:void RadioManager::stop()	0	static
+../Core/Src/RadioManager.cpp:123:6:void RadioManager::reportError(int)	16	static
+../Core/Src/RadioManager.cpp:134:6:void RadioManager::configureInterrupts()	8	static
+../Core/Src/RadioManager.cpp:182:12:VHFChannel RadioManager::alternateChannel(VHFChannel)	0	static
+../Core/Src/RadioManager.cpp:188:6:void RadioManager::onBitClock(uint8_t)	0	static
+../Core/Src/RadioManager.cpp:208:6:void RadioManager::scheduleTransmission(TXPacket*)	8	static
+../Core/Src/RadioManager.cpp:238:6:void RadioManager::sendTestPacketNow(TXPacket*)	0	static

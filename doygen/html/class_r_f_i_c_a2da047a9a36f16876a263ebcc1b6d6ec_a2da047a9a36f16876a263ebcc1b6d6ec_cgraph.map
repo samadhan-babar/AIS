@@ -1,0 +1,16 @@
+<map id="RFIC::checkStatus" name="RFIC::checkStatus">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,68,137,95"/>
+<area shape="rect" id="Node000002" href="$class_r_f_i_c_a1288d76fe38aab8db851b3f12b9c1d4f.html#a1288d76fe38aab8db851b3f12b9c1d4f" title=" " alt="" coords="185,68,298,95"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,79,169,79,169,84,137,84"/>
+<area shape="rect" id="Node000003" href="$bsp__11__3_8cpp_a304de54839868902b631ab144ca3f7a1.html#a304de54839868902b631ab144ca3f7a1" title=" " alt="" coords="556,5,673,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="263,65,300,45,345,28,396,18,447,13,541,11,541,17,447,18,396,24,347,33,303,50,265,70"/>
+<area shape="rect" id="Node000004" href="$class_r_f_i_c_a43699a2a43a2995e4b19dfb51ef0bcf4.html#a43699a2a43a2995e4b19dfb51ef0bcf4" title=" " alt="" coords="346,43,508,69"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="298,71,330,67,331,72,299,76"/>
+<area shape="rect" id="Node000005" href="$class_r_f_i_c_a03f359e05504230230b7658d5b8b7e12.html#a03f359e05504230230b7658d5b8b7e12" title=" " alt="" coords="569,68,660,95"/>
+<area shape="poly" id="edge7_Node000002_Node000005" title=" " alt="" coords="299,79,553,79,553,84,299,84"/>
+<area shape="rect" id="Node000006" href="$class_r_f_i_c_a64d4f0650961dcaf9958e5f2f56e4c36.html#a64d4f0650961dcaf9958e5f2f56e4c36" title=" " alt="" coords="568,131,661,157"/>
+<area shape="poly" id="edge8_Node000002_Node000006" title=" " alt="" coords="299,88,554,131,553,136,298,93"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="497,39,541,31,542,36,498,45"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="509,64,554,71,553,76,509,70"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="459,68,572,121,569,126,457,72"/>
+</map>

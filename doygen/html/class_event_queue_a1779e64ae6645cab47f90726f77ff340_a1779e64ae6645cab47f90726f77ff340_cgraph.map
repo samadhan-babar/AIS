@@ -1,0 +1,16 @@
+<map id="EventQueue::push" name="EventQueue::push">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,81,133,108"/>
+<area shape="rect" id="Node000002" href="$class_event_pool_a24beccee9637c5dfc7b2db4fe4b3c571.html#a24beccee9637c5dfc7b2db4fe4b3c571" title=" " alt="" coords="181,5,335,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,78,207,36,209,41,105,83"/>
+<area shape="rect" id="Node000004" href="$class_circular_queue_a1a8861e8fb473f5b5164507e84624f3d.html#a1a8861e8fb473f5b5164507e84624f3d" title="Pushes an element onto the circular queue." alt="" coords="542,31,682,57"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="133,86,527,49,527,55,133,91"/>
+<area shape="rect" id="Node000006" href="$class_utils_a7787204fd1ab32b5c46ecc9dcd4ea70f.html#a7787204fd1ab32b5c46ecc9dcd4ea70f" title=" " alt="" coords="215,107,301,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="133,101,200,110,199,115,132,106"/>
+<area shape="rect" id="Node000007" href="$class_event_pool_a345d331d74745532e20cc0da3e9da518.html#a345d331d74745532e20cc0da3e9da518" title=" " alt="" coords="190,157,326,184"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="100,106,182,143,199,149,197,154,180,148,97,111"/>
+<area shape="rect" id="Node000003" href="$class_object_pool_aff8f96c2487da234a53c10850d7eb511.html#aff8f96c2487da234a53c10850d7eb511" title=" " alt="" coords="383,5,494,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="335,16,367,16,367,21,335,21"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="495,24,528,29,527,34,495,29"/>
+<area shape="rect" id="Node000005" href="$class_circular_queue_a454dc438e062f8af8bb576a57b7a32a6.html#a454dc438e062f8af8bb576a57b7a32a6" title="Checks if it is safe to write to the next position." alt="" coords="730,31,922,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="682,41,714,41,714,47,682,47"/>
+</map>

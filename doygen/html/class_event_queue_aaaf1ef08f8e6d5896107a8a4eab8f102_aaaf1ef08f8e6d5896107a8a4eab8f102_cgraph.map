@@ -1,0 +1,17 @@
+<map id="EventQueue::dispatch" name="EventQueue::dispatch">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,154,83"/>
+<area shape="rect" id="Node000002" href="$class_event_pool_a24beccee9637c5dfc7b2db4fe4b3c571.html#a24beccee9637c5dfc7b2db4fe4b3c571" title=" " alt="" coords="202,5,356,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,53,208,34,209,39,136,58"/>
+<area shape="rect" id="Node000006" href="$class_event_pool_a345d331d74745532e20cc0da3e9da518.html#a345d331d74745532e20cc0da3e9da518" title=" " alt="" coords="211,56,347,83"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="154,67,195,67,195,72,154,72"/>
+<area shape="rect" id="Node000007" href="$class_circular_queue_a59d3c58687ece5cf2786007e2a76925c.html#a59d3c58687ece5cf2786007e2a76925c" title="Pops an element from the circular queue." alt="" coords="213,107,345,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="136,81,209,100,208,105,134,86"/>
+<area shape="rect" id="Node000003" href="$class_object_pool_aff8f96c2487da234a53c10850d7eb511.html#aff8f96c2487da234a53c10850d7eb511" title=" " alt="" coords="422,5,533,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="357,16,407,16,407,21,357,21"/>
+<area shape="rect" id="Node000004" href="$class_circular_queue_a1a8861e8fb473f5b5164507e84624f3d.html#a1a8861e8fb473f5b5164507e84624f3d" title="Pushes an element onto the circular queue." alt="" coords="599,5,739,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="534,16,583,16,583,21,534,21"/>
+<area shape="rect" id="Node000005" href="$class_circular_queue_a454dc438e062f8af8bb576a57b7a32a6.html#a454dc438e062f8af8bb576a57b7a32a6" title="Checks if it is safe to write to the next position." alt="" coords="787,5,979,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="739,16,771,16,771,21,739,21"/>
+<area shape="rect" id="Node000008" href="$class_circular_queue_a53902e1ca611014a0c27b95c25b49c6e.html#a53902e1ca611014a0c27b95c25b49c6e" title="Checks if the circular queue is empty." alt="" coords="404,107,551,133"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="345,117,389,117,389,123,345,123"/>
+</map>

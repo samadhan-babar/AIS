@@ -1,0 +1,17 @@
+<map id="bsp_write_config_flags" name="bsp_write_config_flags">
+<area shape="rect" id="Node000001" title=" " alt="" coords="921,56,1072,83"/>
+<area shape="rect" id="Node000002" href="$bsp__11__3_8cpp_ac387c37be141937c4b4e7e713806ef47.html#ac387c37be141937c4b4e7e713806ef47" title=" " alt="" coords="715,5,871,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="924,54,849,35,850,30,926,49"/>
+<area shape="rect" id="Node000006" href="$class_configuration_a3487a7e5b8494d7e591720e0cd2a5a9a.html#a3487a7e5b8494d7e591720e0cd2a5a9a" title=" " alt="" coords="713,56,873,83"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="905,72,873,72,873,67,905,67"/>
+<area shape="rect" id="Node000007" href="$class_configuration_a0ac3491df045d9587559ec14253a5894.html#a0ac3491df045d9587559ec14253a5894" title=" " alt="" coords="499,107,655,133"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="921,89,873,97,759,111,655,119,655,113,759,105,872,92,920,84"/>
+<area shape="rect" id="Node000003" href="$class_configuration_a19fa2fb3979df1dde36429f578f37267.html#a19fa2fb3979df1dde36429f578f37267" title=" " alt="" coords="488,5,665,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="700,21,666,21,666,16,700,16"/>
+<area shape="rect" id="Node000004" href="$class_command_processor_a5007e78542ac1a704e87d1baefb134ae.html#a5007e78542ac1a704e87d1baefb134ae" title="Processes a given command string." alt="" coords="247,48,440,91"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="497,39,441,51,440,46,496,33"/>
+<area shape="rect" id="Node000005" href="$class_command_processor_ac33b101c0ddabc2a7512f8926c81375b.html#ac33b101c0ddabc2a7512f8926c81375b" title="Processes an incoming event." alt="" coords="5,48,199,91"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="231,72,199,72,199,67,231,67"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="698,72,441,72,441,67,698,67"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="496,105,440,93,441,88,497,100"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="ObjectPool&lt; T &gt;" name="ObjectPool&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="195,5,312,32"/>
+<area shape="rect" id="Node000002" href="$class_object_pool.html" title=" " alt="" coords="5,96,147,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,42,103,98,100,93,213,37"/>
+<area shape="rect" id="Node000003" href="$class_object_pool.html" title=" " alt="" coords="170,96,337,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="256,48,256,95,251,95,251,48"/>
+<area shape="rect" id="Node000004" href="$class_object_pool.html" title=" " alt="" coords="361,96,525,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="303,36,345,54,422,93,419,98,343,58,301,41"/>
+</map>

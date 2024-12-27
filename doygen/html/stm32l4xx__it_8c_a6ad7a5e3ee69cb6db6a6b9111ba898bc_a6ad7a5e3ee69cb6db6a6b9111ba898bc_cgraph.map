@@ -1,0 +1,5 @@
+<map id="NMI_Handler" name="NMI_Handler">
+<area shape="rect" id="Node000001" title="This function handles Non maskable interrupt." alt="" coords="5,5,101,32"/>
+<area shape="rect" id="Node000002" href="$main_8h_a1730ffe1e560465665eb47d9264826f9.html#a1730ffe1e560465665eb47d9264826f9" title=" " alt="" coords="149,5,249,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,16,133,16,133,21,101,21"/>
+</map>

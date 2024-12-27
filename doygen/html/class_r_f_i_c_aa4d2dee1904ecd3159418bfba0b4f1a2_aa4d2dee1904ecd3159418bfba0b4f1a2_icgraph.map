@@ -1,0 +1,13 @@
+<map id="RFIC::configure" name="RFIC::configure">
+<area shape="rect" id="Node000001" title=" " alt="" coords="600,31,710,57"/>
+<area shape="rect" id="Node000002" href="$class_transceiver_ad4136e96f0d9bd578235ad6c0be49007.html#ad4136e96f0d9bd578235ad6c0be49007" title=" " alt="" coords="405,5,552,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="584,36,552,32,552,27,584,31"/>
+<area shape="rect" id="Node000003" href="$class_receiver_a5ceb07b8198d641595ad5d7e655ad2e7.html#a5ceb07b8198d641595ad5d7e655ad2e7" title=" " alt="" coords="431,56,526,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="584,57,527,65,526,60,584,52"/>
+<area shape="rect" id="Node000004" href="$class_radio_manager_a6bf4b773e17e08976529110a5202d961.html#a6bf4b773e17e08976529110a5202d961" title=" " alt="" coords="228,56,357,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="415,72,358,72,358,67,415,67"/>
+<area shape="rect" id="Node000005" href="$main_8cpp_a0dcdcf298c511db74358109fc74547fa.html#a0dcdcf298c511db74358109fc74547fa" title=" " alt="" coords="103,56,180,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="212,72,180,72,180,67,212,67"/>
+<area shape="rect" id="Node000006" href="$main_8cpp_a840291bc02cba5474a4cb46a9b9566fe.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="5,56,55,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="87,72,55,72,55,67,87,67"/>
+</map>

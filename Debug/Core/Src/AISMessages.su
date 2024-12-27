@@ -1,0 +1,36 @@
+../Core/Src/AISMessages.cpp:42:1:AISMessage::~AISMessage()	0	static
+../Core/Src/AISMessages.cpp:61:6:virtual bool AISMessage::decode(const RXPacket&)	0	static,ignoring_inline_asm
+../Core/Src/AISMessages.cpp:70:6:virtual void AISMessage::encode(const StationData&, TXPacket&)	0	static
+../Core/Inc/AISMessages.hpp:203:7:AISMessage24B::~AISMessage24B()	0	static
+../Core/Inc/AISMessages.hpp:183:7:AISMessage24A::~AISMessage24A()	0	static
+../Core/Inc/AISMessages.hpp:157:7:AISMessage18::~AISMessage18()	0	static
+../Core/Inc/AISMessages.hpp:127:7:AISMessage15::~AISMessage15()	0	static
+../Core/Src/AISMessages.cpp:42:1:virtual AISMessage::~AISMessage()	8	static
+../Core/Inc/AISMessages.hpp:203:7:virtual AISMessage24B::~AISMessage24B()	8	static
+../Core/Inc/AISMessages.hpp:183:7:virtual AISMessage24A::~AISMessage24A()	8	static
+../Core/Inc/AISMessages.hpp:157:7:virtual AISMessage18::~AISMessage18()	8	static
+../Core/Inc/AISMessages.hpp:127:7:virtual AISMessage15::~AISMessage15()	8	static
+../Core/Src/AISMessages.cpp:259:6:virtual bool AISMessage15::decode(const RXPacket&)	24	static
+../Core/Src/AISMessages.cpp:105:6:void AISMessage::addString(uint8_t*, uint16_t&, const std::string&, uint8_t)	64	static,ignoring_inline_asm
+../Core/Src/AISMessages.cpp:35:1:AISMessage::AISMessage()	0	static
+../Core/Src/AISMessages.cpp:46:9:uint8_t AISMessage::type() const	0	static
+../Core/Src/AISMessages.cpp:51:9:uint8_t AISMessage::repeatIndicator() const	0	static
+../Core/Src/AISMessages.cpp:56:10:uint32_t AISMessage::mmsi() const	0	static
+../Core/Src/AISMessages.cpp:75:6:void AISMessage::addBits(uint8_t*, uint16_t&, uint32_t, uint8_t)	4	static,ignoring_inline_asm
+../Core/Src/AISMessages.cpp:86:6:void AISMessage::putBits(uint8_t*, uint32_t, uint8_t)	0	static
+../Core/Src/AISMessages.cpp:95:6:void AISMessage::reverseEachByte(uint8_t*, uint16_t)	8	static,ignoring_inline_asm
+../Core/Src/AISMessages.cpp:105:6:void AISMessage::addString(uint8_t*, uint16_t&, const std::string&, uint8_t)	88	static,ignoring_inline_asm
+../Core/Src/AISMessages.cpp:123:6:void AISMessage::payloadToBytes(uint8_t*, uint16_t, uint8_t*)	16	static
+../Core/Src/AISMessages.cpp:156:6:void AISMessage::bitStuff(uint8_t*, uint16_t&)	24	static,ignoring_inline_asm
+../Core/Src/AISMessages.cpp:182:6:void AISMessage::constructHDLCFrame(uint8_t*, uint16_t&)	16	static
+../Core/Src/AISMessages.cpp:134:6:void AISMessage::finalize(uint8_t*, uint16_t&, TXPacket&)	72	static,ignoring_inline_asm
+../Core/Src/AISMessages.cpp:296:6:virtual void AISMessage18::encode(const StationData&, TXPacket&)	288	static
+../Core/Src/AISMessages.cpp:401:6:virtual void AISMessage24A::encode(const StationData&, TXPacket&)	392	static,ignoring_inline_asm
+../Core/Src/AISMessages.cpp:437:6:virtual void AISMessage24B::encode(const StationData&, TXPacket&)	320	static
+../Core/Src/AISMessages.cpp:205:6:void AISMessage::nrziEncode(uint8_t*, uint16_t&, TXPacket&)	32	static
+../Core/Src/AISMessages.cpp:254:1:AISMessage15::AISMessage15()	4	static
+../Core/Src/AISMessages.cpp:289:1:AISMessage18::AISMessage18()	4	static
+../Core/Src/AISMessages.cpp:396:1:AISMessage24A::AISMessage24A()	4	static
+../Core/Src/AISMessages.cpp:432:1:AISMessage24B::AISMessage24B()	4	static
+../Core/Src/AISMessages.cpp:508:1:AIS_peyload::AIS_peyload()	4	static
+../Core/Src/AISMessages.cpp:513:6:virtual bool AIS_peyload::decode(const RXPacket&)	24	static

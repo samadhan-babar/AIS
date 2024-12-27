@@ -1,0 +1,21 @@
+<map id="RFIC::setXOTrimValue" name="RFIC::setXOTrimValue">
+<area shape="rect" id="Node000001" title=" " alt="" coords="964,85,1115,112"/>
+<area shape="rect" id="Node000002" href="$class_r_f_i_c_aa4d2dee1904ecd3159418bfba0b4f1a2.html#aa4d2dee1904ecd3159418bfba0b4f1a2" title=" " alt="" coords="758,56,869,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="948,90,869,79,869,74,949,84"/>
+<area shape="rect" id="Node000008" href="$class_radio_manager_a9e0c042514f9b3cbb7ce7aa157ca80c3.html#a9e0c042514f9b3cbb7ce7aa157ca80c3" title=" " alt="" coords="711,111,916,137"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="949,111,917,115,916,110,949,106"/>
+<area shape="rect" id="Node000003" href="$class_transceiver_ad4136e96f0d9bd578235ad6c0be49007.html#ad4136e96f0d9bd578235ad6c0be49007" title=" " alt="" coords="493,5,639,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="743,58,634,35,635,30,744,52"/>
+<area shape="rect" id="Node000004" href="$class_receiver_a5ceb07b8198d641595ad5d7e655ad2e7.html#a5ceb07b8198d641595ad5d7e655ad2e7" title=" " alt="" coords="518,56,614,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="742,72,614,72,614,67,742,67"/>
+<area shape="rect" id="Node000005" href="$class_radio_manager_a6bf4b773e17e08976529110a5202d961.html#a6bf4b773e17e08976529110a5202d961" title=" " alt="" coords="260,56,389,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="503,72,390,72,390,67,503,67"/>
+<area shape="rect" id="Node000006" href="$main_8cpp_a0dcdcf298c511db74358109fc74547fa.html#a0dcdcf298c511db74358109fc74547fa" title=" " alt="" coords="103,56,180,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="244,72,181,72,181,67,244,67"/>
+<area shape="rect" id="Node000007" href="$main_8cpp_a840291bc02cba5474a4cb46a9b9566fe.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="5,56,55,83"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="87,72,55,72,55,67,87,67"/>
+<area shape="rect" id="Node000009" href="$class_command_processor_a5007e78542ac1a704e87d1baefb134ae.html#a5007e78542ac1a704e87d1baefb134ae" title="Processes a given command string." alt="" coords="469,107,663,149"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="695,129,663,129,663,124,695,123"/>
+<area shape="rect" id="Node000010" href="$class_command_processor_ac33b101c0ddabc2a7512f8926c81375b.html#ac33b101c0ddabc2a7512f8926c81375b" title="Processes an incoming event." alt="" coords="228,107,421,149"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="454,131,422,131,422,125,454,125"/>
+</map>

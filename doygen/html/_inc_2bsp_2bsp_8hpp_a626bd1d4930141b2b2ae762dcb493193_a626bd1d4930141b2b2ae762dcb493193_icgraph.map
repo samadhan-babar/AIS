@@ -1,0 +1,14 @@
+<map id="bsp_read_xo_trim" name="bsp_read_xo_trim">
+<area shape="rect" id="Node000001" title=" " alt="" coords="945,43,1069,69"/>
+<area shape="rect" id="Node000002" href="$class_configuration_a38fbdc20135adc760e112e9f8e54ff24.html#a38fbdc20135adc760e112e9f8e54ff24" title=" " alt="" coords="724,5,888,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="929,47,888,41,889,36,930,42"/>
+<area shape="rect" id="Node000006" href="$class_configuration_ab1da0749231c3be7d71e0a4a73dc5fb0.html#ab1da0749231c3be7d71e0a4a73dc5fb0" title=" " alt="" coords="715,72,897,99"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="930,70,897,75,897,69,929,65"/>
+<area shape="rect" id="Node000003" href="$class_configuration_ad129526ca32dce82094b95063373b9b3.html#ad129526ca32dce82094b95063373b9b3" title=" " alt="" coords="488,35,667,77"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="709,42,668,47,668,42,708,37"/>
+<area shape="rect" id="Node000004" href="$class_command_processor_a5007e78542ac1a704e87d1baefb134ae.html#a5007e78542ac1a704e87d1baefb134ae" title="Processes a given command string." alt="" coords="247,35,440,77"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="472,59,441,59,441,53,472,53"/>
+<area shape="rect" id="Node000005" href="$class_command_processor_ac33b101c0ddabc2a7512f8926c81375b.html#ac33b101c0ddabc2a7512f8926c81375b" title="Processes an incoming event." alt="" coords="5,35,199,77"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="231,59,199,59,199,53,231,53"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="699,74,667,70,668,65,700,69"/>
+</map>

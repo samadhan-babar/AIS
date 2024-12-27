@@ -1,0 +1,9 @@
+<map id="Utils::latitudeFromNMEA" name="Utils::latitudeFromNMEA">
+<area shape="rect" id="Node000001" title=" " alt="" coords="556,5,722,32"/>
+<area shape="rect" id="Node000002" href="$class_g_p_s_af890a511d8c808d367b5e2503c0c7669.html#af890a511d8c808d367b5e2503c0c7669" title=" " alt="" coords="364,5,508,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="541,21,509,21,509,16,541,16"/>
+<area shape="rect" id="Node000003" href="$class_g_p_s_a67a98ea80709a857baf2de345254eb3d.html#a67a98ea80709a857baf2de345254eb3d" title=" " alt="" coords="189,5,316,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="349,21,316,21,316,16,349,16"/>
+<area shape="rect" id="Node000004" href="$class_g_p_s_a1f2e05a9408f81b1791c25be4e1af830.html#a1f2e05a9408f81b1791c25be4e1af830" title=" " alt="" coords="5,5,141,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="173,21,141,21,141,16,173,16"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="RadioManager" name="RadioManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="213,277,317,304"/>
+<area shape="rect" id="Node000002" href="$class_g_p_s_delegate.html" title=" " alt="" coords="5,187,106,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,220,137,251,175,265,213,276,212,281,173,270,134,256,82,225"/>
+<area shape="rect" id="Node000003" href="$class_event_consumer.html" title=" " alt="" coords="266,96,378,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="342,135,357,161,368,192,371,224,368,240,360,255,342,272,319,283,316,278,339,268,356,252,363,238,366,224,363,193,352,163,338,137"/>
+<area shape="rect" id="Node000004" href="$class_transceiver.html" title=" " alt="" coords="254,187,340,213"/>
+<area shape="poly" id="edge7_Node000004_Node000003" title=" " alt="" coords="317,139,303,187,298,185,312,137"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="275,227,269,238,265,258,266,277,260,277,260,258,264,236,270,224"/>
+<area shape="rect" id="Node000005" href="$class_receiver.html" title=" " alt="" coords="130,96,200,123"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="162,138,160,175,162,194,169,212,182,232,200,249,238,274,235,279,197,254,178,236,164,215,157,195,154,175,156,137"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="198,129,279,184,276,188,195,134"/>
+<area shape="rect" id="Node000006" href="$class_r_f_i_c.html" title=" " alt="" coords="96,5,146,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="136,45,161,94,156,97,132,47"/>
+<area shape="rect" id="Node000007" href="$class_r_x_packet.html" title=" " alt="" coords="170,5,248,32"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="198,47,174,97,169,94,193,45"/>
+<area shape="rect" id="Node000008" href="$class_t_x_packet.html" title=" " alt="" coords="423,96,499,123"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="425,133,322,188,319,184,423,128"/>
+<area shape="rect" id="Node000009" href="$class_circular_queue.html" title=" " alt="" coords="427,187,618,213"/>
+<area shape="poly" id="edge11_Node000009_Node000008" title=" " alt="" coords="485,132,495,145,518,185,514,188,491,148,481,136"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="481,222,396,256,317,279,315,274,395,251,480,217"/>
+<area shape="rect" id="Node000010" href="$class_circular_queue.html" title="A template&#45;based circular queue class for buffering elements." alt="" coords="534,96,668,123"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="583,136,559,164,536,188,533,184,555,161,579,133"/>
+</map>

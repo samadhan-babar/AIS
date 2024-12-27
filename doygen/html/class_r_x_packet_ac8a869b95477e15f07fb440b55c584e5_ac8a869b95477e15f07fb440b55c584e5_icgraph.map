@@ -1,0 +1,10 @@
+<map id="RXPacket::bits" name="RXPacket::bits">
+<area shape="rect" id="Node000001" title=" " alt="" coords="406,31,513,57"/>
+<area shape="rect" id="Node000002" href="$class_a_i_s_message15_ad02fc913da273f3ffc5291a56557a37e.html#ad02fc913da273f3ffc5291a56557a37e" title="Decodes a received packet containing AIS message 15." alt="" coords="199,5,358,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="390,37,358,32,359,27,391,32"/>
+<area shape="rect" id="Node000004" href="$class_n_m_e_a_encoder_ac9a32552c17499c72601a8550b5c9805.html#ac9a32552c17499c72601a8550b5c9805" title=" " alt="" coords="200,56,357,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="391,56,357,61,357,56,390,51"/>
+<area shape="rect" id="Node000003" href="$class_r_x_packet_processor_a5aa161e2a075b6e526067d66d7777121.html#a5aa161e2a075b6e526067d66d7777121" title=" " alt="" coords="5,23,151,65"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="184,33,151,37,150,32,183,28"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="184,60,151,56,151,51,185,55"/>
+</map>

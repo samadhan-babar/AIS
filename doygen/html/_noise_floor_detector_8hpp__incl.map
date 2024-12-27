@@ -1,0 +1,56 @@
+<map id="D:/Organised/Development/C CPP/STM32 WorkSpace/ais_transponder/Core/Inc/NoiseFloorDetector.hpp" name="D:/Organised/Development/C CPP/STM32 WorkSpace/ais_transponder/Core/Inc/NoiseFloorDetector.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="153,5,336,80"/>
+<area shape="rect" id="Node000002" href="$_a_i_s_channels_8h.html" title="Defines AIS VHF channel mappings and utilities for Marine Automatic Identification System firmware." alt="" coords="5,277,113,304"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,82,154,137,101,204,84,235,71,264,66,262,79,232,97,201,150,134,203,78"/>
+<area shape="rect" id="Node000004" href="$_events_8hpp.html" title=" " alt="" coords="386,128,471,155"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="316,78,392,118,390,123,313,83"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="168,576,246,603"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="63,304,68,344,81,401,101,466,133,526,152,548,174,565,170,569,148,551,129,530,97,468,75,403,63,345,58,305"/>
+<area shape="poly" id="edge33_Node000004_Node000002" title=" " alt="" coords="385,146,333,150,269,159,201,177,138,205,103,234,77,266,72,263,99,230,135,200,200,172,268,154,332,144,385,141"/>
+<area shape="rect" id="Node000005" href="$_event_types_8h.html" title=" " alt="" coords="276,203,375,229"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="412,157,358,195,355,191,409,153"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="400,203,457,229"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="431,155,431,187,426,187,426,155"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="481,203,541,229"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="444,153,487,190,484,194,441,157"/>
+<area shape="rect" id="Node000008" href="$_n_m_e_a_sentence_8hpp.html" title=" " alt="" coords="709,352,849,379"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="468,153,521,173,576,200,629,235,680,273,757,339,753,343,676,277,626,239,574,205,518,178,466,158"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="752,427,806,453"/>
+<area shape="poly" id="edge10_Node000004_Node000009" title=" " alt="" coords="472,145,561,163,615,178,671,198,727,225,780,259,826,301,863,351,867,372,858,391,841,407,821,421,818,417,838,403,853,388,861,371,858,353,822,304,777,263,725,230,669,203,613,183,559,168,471,150"/>
+<area shape="rect" id="Node000011" href="$_r_x_packet_8hpp.html" title=" " alt="" coords="149,203,252,229"/>
+<area shape="poly" id="edge11_Node000004_Node000011" title=" " alt="" coords="389,158,256,200,254,195,388,153"/>
+<area shape="rect" id="Node000017" href="$_object_pool_8hpp.html" title=" " alt="" coords="420,277,530,304"/>
+<area shape="poly" id="edge32_Node000004_Node000017" title=" " alt="" coords="472,148,518,167,539,182,556,201,561,222,552,241,536,257,516,271,513,267,532,253,548,238,555,221,551,204,535,186,515,171,470,153"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="782,379,782,411,776,411,776,379"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="647,427,703,453"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="762,381,707,420,704,415,759,377"/>
+<area shape="poly" id="edge14_Node000011_Node000002" title=" " alt="" coords="177,232,98,272,96,267,175,227"/>
+<area shape="poly" id="edge12_Node000011_Node000003" title=" " alt="" coords="195,231,168,288,157,325,152,364,152,441,156,475,166,507,193,562,188,564,161,509,151,476,147,441,147,364,152,324,163,286,190,229"/>
+<area shape="rect" id="Node000012" href="$__assert_8h.html" title="Header file for assertion macros in the Marine Automatic Identification System firmware." alt="" coords="323,427,398,453"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="209,228,233,276,252,329,261,352,278,377,300,399,325,416,322,421,297,403,274,380,257,354,247,331,229,278,204,231"/>
+<area shape="rect" id="Node000013" href="$config_8h.html" title=" " alt="" coords="227,427,294,453"/>
+<area shape="poly" id="edge15_Node000011_Node000013" title=" " alt="" coords="204,229,214,294,235,378,249,412,244,414,230,379,209,295,199,230"/>
+<area shape="poly" id="edge20_Node000011_Node000017" title=" " alt="" coords="249,227,413,270,411,275,248,232"/>
+<area shape="rect" id="Node000014" href="$radio__config_8h.html" title="This file contains the automatically generated configurations." alt="" coords="367,501,468,528"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="289,451,377,492,375,497,287,456"/>
+<area shape="rect" id="Node000016" href="$_t_x_power_settings_8h.html" title=" " alt="" coords="193,501,323,528"/>
+<area shape="poly" id="edge18_Node000013_Node000016" title=" " alt="" coords="263,454,261,486,256,486,257,454"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="439,576,503,603"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="429,527,455,562,451,565,425,530"/>
+<area shape="poly" id="edge19_Node000016_Node000003" title=" " alt="" coords="251,530,226,565,222,562,247,527"/>
+<area shape="poly" id="edge23_Node000017_Node000012" title=" " alt="" coords="467,306,382,416,377,413,463,303"/>
+<area shape="rect" id="Node000018" href="$printf__serial_8h.html" title=" " alt="" coords="289,352,387,379"/>
+<area shape="poly" id="edge21_Node000017_Node000018" title=" " alt="" coords="452,307,376,347,374,342,450,302"/>
+<area shape="rect" id="Node000019" href="$_circular_queue_8hpp.html" title="Defines a template&#45;based circular queue class for managing buffered data." alt="" coords="462,352,590,379"/>
+<area shape="poly" id="edge24_Node000017_Node000019" title=" " alt="" coords="486,303,511,338,506,341,482,306"/>
+<area shape="rect" id="Node000021" href="$_utils_8hpp.html" title=" " alt="" coords="614,352,686,379"/>
+<area shape="poly" id="edge28_Node000017_Node000021" title=" " alt="" coords="506,302,606,343,604,348,504,307"/>
+<area shape="poly" id="edge22_Node000018_Node000013" title=" " alt="" coords="326,381,287,418,283,414,322,377"/>
+<area shape="poly" id="edge27_Node000019_Node000012" title=" " alt="" coords="498,382,404,422,402,417,496,377"/>
+<area shape="poly" id="edge25_Node000019_Node000015" title=" " alt="" coords="525,380,480,561,475,560,520,379"/>
+<area shape="rect" id="Node000020" title=" " alt="" coords="423,427,490,453"/>
+<area shape="poly" id="edge26_Node000019_Node000020" title=" " alt="" coords="516,381,481,417,477,413,512,377"/>
+<area shape="poly" id="edge31_Node000021_Node000003" title=" " alt="" coords="643,381,618,412,581,452,535,495,482,530,426,554,367,571,311,581,262,587,261,582,310,576,366,566,424,549,479,526,531,491,577,449,614,408,639,377"/>
+<area shape="poly" id="edge29_Node000021_Node000009" title=" " alt="" coords="673,377,744,416,742,421,671,382"/>
+<area shape="poly" id="edge30_Node000021_Node000010" title=" " alt="" coords="657,378,668,411,663,413,652,380"/>
+</map>

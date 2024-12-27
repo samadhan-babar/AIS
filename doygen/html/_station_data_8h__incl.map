@@ -1,0 +1,10 @@
+<map id="D:/Organised/Development/C CPP/STM32 WorkSpace/ais_transponder/Core/Inc/StationData.h" name="D:/Organised/Development/C CPP/STM32 WorkSpace/ais_transponder/Core/Inc/StationData.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,188,80"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="77,203,156,229"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,81,56,117,54,136,58,154,70,174,87,191,83,195,66,177,53,156,48,136,51,116,66,79"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="68,128,125,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="99,80,99,112,94,112,94,80"/>
+<area shape="rect" id="Node000004" href="$_a_i_s_channels_8h.html" title="Defines AIS VHF channel mappings and utilities for Marine Automatic Identification System firmware." alt="" coords="150,128,257,155"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="139,78,180,115,176,119,135,82"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="190,157,145,195,141,191,186,153"/>
+</map>

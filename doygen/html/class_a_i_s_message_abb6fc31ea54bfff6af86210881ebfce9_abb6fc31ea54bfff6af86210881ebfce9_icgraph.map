@@ -1,0 +1,16 @@
+<map id="AISMessage::addString" name="AISMessage::addString">
+<area shape="rect" id="Node000001" title=" " alt="" coords="956,43,1114,69"/>
+<area shape="rect" id="Node000002" href="$class_a_i_s_message24_a_aaf1a1dde528ef2571539961ba4782338.html#aaf1a1dde528ef2571539961ba4782338" title="Encodes AIS message 24A into a transmit packet." alt="" coords="739,17,908,44"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="940,47,908,43,908,38,941,42"/>
+<area shape="rect" id="Node000007" href="$class_a_i_s_message24_b_afdc0533ecff570a060b94f3cb6543bf0.html#afdc0533ecff570a060b94f3cb6543bf0" title="Encodes AIS message 24B into a transmit packet." alt="" coords="739,68,908,95"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="941,70,908,74,908,69,940,65"/>
+<area shape="rect" id="Node000003" href="$class_t_x_scheduler_a24575d0a32719e3cf9ef404447450885.html#a24575d0a32719e3cf9ef404447450885" title=" " alt="" coords="488,43,691,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="724,44,692,48,691,42,723,39"/>
+<area shape="rect" id="Node000004" href="$class_command_processor_a5007e78542ac1a704e87d1baefb134ae.html#a5007e78542ac1a704e87d1baefb134ae" title="Processes a given command string." alt="" coords="247,5,440,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="472,45,440,41,441,36,473,39"/>
+<area shape="rect" id="Node000006" href="$class_t_x_scheduler_ab1226cf9176a564c66503a9dc9a43934.html#ab1226cf9176a564c66503a9dc9a43934" title=" " alt="" coords="254,72,433,99"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="473,73,434,77,433,72,472,67"/>
+<area shape="rect" id="Node000005" href="$class_command_processor_ac33b101c0ddabc2a7512f8926c81375b.html#ac33b101c0ddabc2a7512f8926c81375b" title="Processes an incoming event." alt="" coords="5,5,199,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="231,29,199,29,199,24,231,24"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="723,73,691,70,692,64,724,68"/>
+</map>

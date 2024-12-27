@@ -1,0 +1,9 @@
+/opt/st/stm32cubeide_1.17.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.linux64_1.1.0.202410170702/tools/arm-none-eabi/include/c++/12.3.1/bits/stl_tree.h:1931:5:void std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>::_M_erase(_Link_type) [with _Key = EventConsumer*; _Val = std::pair<EventConsumer* const, long unsigned int>; _KeyOfValue = std::_Select1st<std::pair<EventConsumer* const, long unsigned int> >; _Compare = std::less<EventConsumer*>; _Alloc = std::allocator<std::pair<EventConsumer* const, long unsigned int> >]	48	static
+../Core/Src/EventQueue.cpp:30:21:void __tcf_0()	8	static
+../Core/Src/EventQueue.cpp:28:13:static EventQueue& EventQueue::instance()	16	static,ignoring_inline_asm
+../Core/Src/EventQueue.cpp:34:1:EventQueue::EventQueue()	8	static,ignoring_inline_asm
+../Core/Src/EventQueue.cpp:39:6:void EventQueue::init()	0	static
+../Core/Src/EventQueue.cpp:43:6:bool EventQueue::push(Event*)	16	static
+../Core/Src/EventQueue.cpp:65:6:void EventQueue::addObserver(EventConsumer*, uint32_t)	32	static
+../Core/Src/EventQueue.cpp:70:6:void EventQueue::removeObserver(EventConsumer*)	16	static
+../Core/Src/EventQueue.cpp:79:6:void EventQueue::dispatch()	24	static

@@ -1,0 +1,30 @@
+<map id="termInputCB" name="termInputCB">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,81,99,108"/>
+<area shape="rect" id="Node000002" href="$class_event_queue_a183a4bc6de3a3c08b913b0a0a336d0d4.html#a183a4bc6de3a3c08b913b0a0a336d0d4" title=" " alt="" coords="147,5,295,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,78,146,42,160,35,162,40,148,46,78,83"/>
+<area shape="rect" id="Node000003" href="$class_event_pool_a345d331d74745532e20cc0da3e9da518.html#a345d331d74745532e20cc0da3e9da518" title=" " alt="" coords="352,107,488,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="99,95,337,112,336,117,99,101"/>
+<area shape="rect" id="Node000004" href="$class_event_pool_ab11e60165656378fbb1a152ccde56322.html#ab11e60165656378fbb1a152ccde56322" title=" " alt="" coords="150,56,292,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="99,85,134,80,135,85,100,90"/>
+<area shape="rect" id="Node000009" href="$class_event_queue_a1779e64ae6645cab47f90726f77ff340.html#a1779e64ae6645cab47f90726f77ff340" title=" " alt="" coords="157,157,285,184"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="83,106,148,136,175,148,172,153,146,141,81,111"/>
+<area shape="rect" id="Node000005" href="$class_object_pool_a5dbf3e90e1af15475b9fbbfd4b1ebdde.html#a5dbf3e90e1af15475b9fbbfd4b1ebdde" title=" " alt="" coords="365,5,476,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="276,53,349,34,351,39,277,58"/>
+<area shape="rect" id="Node000008" href="$class_utils_a7787204fd1ab32b5c46ecc9dcd4ea70f.html#a7787204fd1ab32b5c46ecc9dcd4ea70f" title=" " alt="" coords="377,56,463,83"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="293,67,362,67,362,72,293,72"/>
+<area shape="rect" id="Node000006" href="$class_circular_queue_a59d3c58687ece5cf2786007e2a76925c.html#a59d3c58687ece5cf2786007e2a76925c" title="Pops an element from the circular queue." alt="" coords="545,5,678,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="476,16,530,16,530,21,476,21"/>
+<area shape="rect" id="Node000007" href="$class_circular_queue_a53902e1ca611014a0c27b95c25b49c6e.html#a53902e1ca611014a0c27b95c25b49c6e" title="Checks if the circular queue is empty." alt="" coords="726,5,873,32"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="678,16,710,16,710,21,678,21"/>
+<area shape="poly" id="edge14_Node000009_Node000003" title=" " alt="" coords="276,154,349,135,351,140,277,159"/>
+<area shape="poly" id="edge13_Node000009_Node000008" title=" " alt="" coords="240,155,285,124,342,92,361,84,363,89,344,97,288,129,243,159"/>
+<area shape="rect" id="Node000010" href="$class_event_pool_a24beccee9637c5dfc7b2db4fe4b3c571.html#a24beccee9637c5dfc7b2db4fe4b3c571" title=" " alt="" coords="343,208,497,235"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="277,182,351,201,349,206,276,187"/>
+<area shape="rect" id="Node000012" href="$class_circular_queue_a1a8861e8fb473f5b5164507e84624f3d.html#a1a8861e8fb473f5b5164507e84624f3d" title="Pushes an element onto the circular queue." alt="" coords="730,183,869,209"/>
+<area shape="poly" id="edge15_Node000009_Node000012" title=" " alt="" coords="285,171,714,190,714,195,285,176"/>
+<area shape="rect" id="Node000011" href="$class_object_pool_aff8f96c2487da234a53c10850d7eb511.html#aff8f96c2487da234a53c10850d7eb511" title=" " alt="" coords="556,208,667,235"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="498,219,540,219,540,224,498,224"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="667,211,714,205,714,210,668,217"/>
+<area shape="rect" id="Node000013" href="$class_circular_queue_a454dc438e062f8af8bb576a57b7a32a6.html#a454dc438e062f8af8bb576a57b7a32a6" title="Checks if it is safe to write to the next position." alt="" coords="921,183,1113,209"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="869,193,905,193,905,199,869,199"/>
+</map>

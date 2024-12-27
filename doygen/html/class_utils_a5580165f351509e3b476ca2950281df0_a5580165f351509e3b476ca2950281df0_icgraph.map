@@ -1,0 +1,9 @@
+<map id="Utils::coordinateToUINT32" name="Utils::coordinateToUINT32">
+<area shape="rect" id="Node000001" title=" " alt="" coords="691,5,863,32"/>
+<area shape="rect" id="Node000002" href="$class_a_i_s_message18_a72d46e00bdca5623dba77ce85cabb6d3.html#a72d46e00bdca5623dba77ce85cabb6d3" title="Encodes AIS message 18 into a transmit packet." alt="" coords="484,5,643,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="676,21,644,21,644,16,676,16"/>
+<area shape="rect" id="Node000003" href="$class_t_x_scheduler_a24a970c015a6253bdac299cbdbbd8f7c.html#a24a970c015a6253bdac299cbdbbd8f7c" title=" " alt="" coords="233,5,436,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="468,21,437,21,437,16,468,16"/>
+<area shape="rect" id="Node000004" href="$class_t_x_scheduler_ab1226cf9176a564c66503a9dc9a43934.html#ab1226cf9176a564c66503a9dc9a43934" title=" " alt="" coords="5,5,185,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="217,21,185,21,185,16,217,16"/>
+</map>

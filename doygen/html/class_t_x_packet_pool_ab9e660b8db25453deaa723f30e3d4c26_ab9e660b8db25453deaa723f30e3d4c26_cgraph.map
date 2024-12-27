@@ -1,0 +1,15 @@
+<map id="TXPacketPool::newTXPacket" name="TXPacketPool::newTXPacket">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,194,83"/>
+<area shape="rect" id="Node000002" href="$class_t_x_packet_aca24826d28c89b61dad820c134e89512.html#aca24826d28c89b61dad820c134e89512" title=" " alt="" coords="242,5,378,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,53,236,34,237,39,159,58"/>
+<area shape="rect" id="Node000004" href="$class_object_pool_a5dbf3e90e1af15475b9fbbfd4b1ebdde.html#a5dbf3e90e1af15475b9fbbfd4b1ebdde" title=" " alt="" coords="254,56,366,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="194,67,239,67,239,72,194,72"/>
+<area shape="rect" id="Node000007" href="$class_t_x_packet_aeea3d93d3e4ba9fddb7665103ee1ab28.html#aeea3d93d3e4ba9fddb7665103ee1ab28" title=" " alt="" coords="253,107,367,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="159,81,239,100,237,105,157,86"/>
+<area shape="rect" id="Node000003" href="$class_t_x_packet_a9e0daa9ed73aaa4a8265a3df759c0e17.html#a9e0daa9ed73aaa4a8265a3df759c0e17" title=" " alt="" coords="428,5,557,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="379,16,412,16,412,21,379,21"/>
+<area shape="rect" id="Node000005" href="$class_circular_queue_a59d3c58687ece5cf2786007e2a76925c.html#a59d3c58687ece5cf2786007e2a76925c" title="Pops an element from the circular queue." alt="" coords="426,56,558,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="366,67,411,67,411,72,366,72"/>
+<area shape="rect" id="Node000006" href="$class_circular_queue_a53902e1ca611014a0c27b95c25b49c6e.html#a53902e1ca611014a0c27b95c25b49c6e" title="Checks if the circular queue is empty." alt="" coords="606,56,754,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="559,67,591,67,591,72,559,72"/>
+</map>

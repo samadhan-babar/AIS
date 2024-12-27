@@ -1,0 +1,9 @@
+<map id="D:/Organised/Development/C CPP/STM32 WorkSpace/ais_transponder/Core/Inc/CircularQueue.hpp" name="D:/Organised/Development/C CPP/STM32 WorkSpace/ais_transponder/Core/Inc/CircularQueue.hpp">
+<area shape="rect" id="Node000001" title="Defines a template&#45;based circular queue class for managing buffered data." alt="" coords="36,5,218,80"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,128,70,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,82,62,118,58,114,91,78"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="93,128,161,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="130,80,130,112,124,112,124,80"/>
+<area shape="rect" id="Node000004" href="$__assert_8h.html" title="Header file for assertion macros in the Marine Automatic Identification System firmware." alt="" coords="185,128,261,155"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="165,78,201,115,198,118,161,82"/>
+</map>

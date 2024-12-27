@@ -1,0 +1,10 @@
+../Core/Src/DataTerminal.cpp:49:6:virtual void DataTerminal::processEvent(const Event&)	0	static
+../Core/Src/DataTerminal.cpp:99:6:void termInputCB(char)	24	static
+../Core/Inc/DataTerminal.hpp:31:7:virtual DataTerminal::~DataTerminal()	16	static
+../Core/Src/DataTerminal.cpp:33:23:void __tcf_0()	16	static
+../Core/Inc/DataTerminal.hpp:31:7:DataTerminal::~DataTerminal()	16	static
+../Core/Src/DataTerminal.cpp:37:6:void DataTerminal::init()	0	static
+../Core/Src/DataTerminal.cpp:42:1:DataTerminal::DataTerminal()	32	static
+../Core/Src/DataTerminal.cpp:31:15:static DataTerminal& DataTerminal::instance()	8	static
+../Core/Src/DataTerminal.cpp:81:6:void DataTerminal::write(const char*)	0	static
+../Core/Src/DataTerminal.cpp:89:6:void DataTerminal::_write(const char*)	0	static

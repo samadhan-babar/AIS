@@ -1,0 +1,7 @@
+<map id="GPS" name="GPS">
+<area shape="rect" id="Node000001" title=" " alt="" coords="102,96,152,123"/>
+<area shape="rect" id="Node000002" href="$class_event_consumer.html" title=" " alt="" coords="5,5,118,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,43,120,94,115,97,78,46"/>
+<area shape="rect" id="Node000003" href="$class_g_p_s_delegate.html" title=" " alt="" coords="142,5,242,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,46,138,97,134,94,172,43"/>
+</map>

@@ -1,0 +1,39 @@
+<map id="Configuration::reportXOTrimValue" name="Configuration::reportXOTrimValue">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,165,185,208"/>
+<area shape="rect" id="Node000002" href="$class_utils_a56d06c523e71effbb9e6f87b93592536.html#a56d06c523e71effbb9e6f87b93592536" title=" " alt="" coords="250,5,397,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,163,159,103,193,70,231,42,242,36,245,41,234,46,196,74,163,106,113,167"/>
+<area shape="rect" id="Node000003" href="$class_configuration_a38fbdc20135adc760e112e9f8e54ff24.html#a38fbdc20135adc760e112e9f8e54ff24" title=" " alt="" coords="241,107,406,149"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,162,225,150,227,156,181,167"/>
+<area shape="rect" id="Node000005" href="$class_event_queue_a183a4bc6de3a3c08b913b0a0a336d0d4.html#a183a4bc6de3a3c08b913b0a0a336d0d4" title=" " alt="" coords="249,173,398,200"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="185,184,234,184,234,189,185,189"/>
+<area shape="rect" id="Node000006" href="$class_event_pool_a345d331d74745532e20cc0da3e9da518.html#a345d331d74745532e20cc0da3e9da518" title=" " alt="" coords="471,275,607,301"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="128,206,176,235,234,260,290,274,348,282,456,288,455,293,348,287,289,279,232,265,174,240,125,211"/>
+<area shape="rect" id="Node000007" href="$class_configuration_ab1da0749231c3be7d71e0a4a73dc5fb0.html#ab1da0749231c3be7d71e0a4a73dc5fb0" title=" " alt="" coords="233,56,414,83"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="121,163,171,127,231,92,247,86,249,91,234,97,174,131,125,167"/>
+<area shape="rect" id="Node000008" href="$class_event_pool_ab11e60165656378fbb1a152ccde56322.html#ab11e60165656378fbb1a152ccde56322" title=" " alt="" coords="252,224,395,251"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="185,204,246,218,245,223,184,209"/>
+<area shape="rect" id="Node000013" href="$class_event_queue_a1779e64ae6645cab47f90726f77ff340.html#a1779e64ae6645cab47f90726f77ff340" title=" " alt="" coords="260,325,387,352"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="118,207,168,255,200,281,234,304,260,317,258,322,231,309,197,286,165,259,114,210"/>
+<area shape="rect" id="Node000004" href="$bsp__11__3_8cpp_a626bd1d4930141b2b2ae762dcb493193.html#a626bd1d4930141b2b2ae762dcb493193" title=" " alt="" coords="477,85,601,112"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="406,114,461,106,462,112,406,119"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="415,79,462,86,461,91,414,84"/>
+<area shape="rect" id="Node000009" href="$class_object_pool_a5dbf3e90e1af15475b9fbbfd4b1ebdde.html#a5dbf3e90e1af15475b9fbbfd4b1ebdde" title=" " alt="" coords="484,173,595,200"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="383,221,467,201,469,206,384,226"/>
+<area shape="rect" id="Node000012" href="$class_utils_a7787204fd1ab32b5c46ecc9dcd4ea70f.html#a7787204fd1ab32b5c46ecc9dcd4ea70f" title=" " alt="" coords="496,224,582,251"/>
+<area shape="poly" id="edge12_Node000008_Node000012" title=" " alt="" coords="395,235,480,235,480,240,395,240"/>
+<area shape="rect" id="Node000010" href="$class_circular_queue_a59d3c58687ece5cf2786007e2a76925c.html#a59d3c58687ece5cf2786007e2a76925c" title="Pops an element from the circular queue." alt="" coords="664,173,797,200"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="595,184,649,184,649,189,595,189"/>
+<area shape="rect" id="Node000011" href="$class_circular_queue_a53902e1ca611014a0c27b95c25b49c6e.html#a53902e1ca611014a0c27b95c25b49c6e" title="Checks if the circular queue is empty." alt="" coords="845,173,992,200"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="797,184,829,184,829,189,797,189"/>
+<area shape="poly" id="edge19_Node000013_Node000006" title=" " alt="" coords="383,322,464,303,465,308,384,327"/>
+<area shape="poly" id="edge18_Node000013_Node000012" title=" " alt="" coords="346,322,397,292,461,260,480,252,482,257,463,265,400,297,348,327"/>
+<area shape="rect" id="Node000014" href="$class_event_pool_a24beccee9637c5dfc7b2db4fe4b3c571.html#a24beccee9637c5dfc7b2db4fe4b3c571" title=" " alt="" coords="462,325,616,352"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="387,336,446,336,446,341,387,341"/>
+<area shape="rect" id="Node000016" href="$class_circular_queue_a1a8861e8fb473f5b5164507e84624f3d.html#a1a8861e8fb473f5b5164507e84624f3d" title="Pushes an element onto the circular queue." alt="" coords="849,351,988,377"/>
+<area shape="poly" id="edge20_Node000013_Node000016" title=" " alt="" coords="387,350,462,361,562,368,662,370,833,366,833,371,662,375,561,373,462,367,386,355"/>
+<area shape="rect" id="Node000015" href="$class_object_pool_aff8f96c2487da234a53c10850d7eb511.html#aff8f96c2487da234a53c10850d7eb511" title=" " alt="" coords="675,325,786,352"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="617,336,659,336,659,341,617,341"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="787,343,833,350,833,355,786,349"/>
+<area shape="rect" id="Node000017" href="$class_circular_queue_a454dc438e062f8af8bb576a57b7a32a6.html#a454dc438e062f8af8bb576a57b7a32a6" title="Checks if it is safe to write to the next position." alt="" coords="1040,351,1232,377"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="988,361,1024,361,1024,367,988,367"/>
+</map>

@@ -1,0 +1,4 @@
+../Core/Src/RXPacketProcessor.cpp:52:6:virtual void RXPacketProcessor::processEvent(const Event&)	72	static,ignoring_inline_asm
+../Core/Src/RXPacketProcessor.cpp:39:1:RXPacketProcessor::RXPacketProcessor()	32	static
+../Core/Src/RXPacketProcessor.cpp:46:1:RXPacketProcessor::~RXPacketProcessor()	16	static
+../Core/Src/RXPacketProcessor.cpp:46:1:virtual RXPacketProcessor::~RXPacketProcessor()	16	static

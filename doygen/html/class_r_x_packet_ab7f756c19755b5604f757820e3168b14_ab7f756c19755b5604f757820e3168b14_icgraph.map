@@ -1,0 +1,7 @@
+<map id="RXPacket::discardCRC" name="RXPacket::discardCRC">
+<area shape="rect" id="Node000001" title=" " alt="" coords="404,13,559,40"/>
+<area shape="rect" id="Node000002" href="$class_n_m_e_a_encoder_ac9a32552c17499c72601a8550b5c9805.html#ac9a32552c17499c72601a8550b5c9805" title=" " alt="" coords="199,13,356,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="388,29,357,29,357,24,388,24"/>
+<area shape="rect" id="Node000003" href="$class_r_x_packet_processor_a5aa161e2a075b6e526067d66d7777121.html#a5aa161e2a075b6e526067d66d7777121" title=" " alt="" coords="5,5,151,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="183,29,151,29,151,24,183,24"/>
+</map>

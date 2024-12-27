@@ -1,0 +1,9 @@
+<map id="EventPool::deleteEvent" name="EventPool::deleteEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,160,32"/>
+<area shape="rect" id="Node000002" href="$class_object_pool_aff8f96c2487da234a53c10850d7eb511.html#aff8f96c2487da234a53c10850d7eb511" title=" " alt="" coords="208,5,319,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,16,192,16,192,21,160,21"/>
+<area shape="rect" id="Node000003" href="$class_circular_queue_a1a8861e8fb473f5b5164507e84624f3d.html#a1a8861e8fb473f5b5164507e84624f3d" title="Pushes an element onto the circular queue." alt="" coords="367,5,506,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="320,16,352,16,352,21,320,21"/>
+<area shape="rect" id="Node000004" href="$class_circular_queue_a454dc438e062f8af8bb576a57b7a32a6.html#a454dc438e062f8af8bb576a57b7a32a6" title="Checks if it is safe to write to the next position." alt="" coords="554,5,747,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="507,16,538,16,538,21,507,21"/>
+</map>

@@ -1,0 +1,10 @@
+../Core/Src/NoiseFloorDetector.cpp:31:29:void __tcf_0()	0	static
+../Core/Inc/NoiseFloorDetector.hpp:29:7:NoiseFloorDetector::~NoiseFloorDetector()	0	static
+../Core/Inc/NoiseFloorDetector.hpp:29:7:virtual NoiseFloorDetector::~NoiseFloorDetector()	8	static
+../Core/Src/NoiseFloorDetector.cpp:29:21:static NoiseFloorDetector& NoiseFloorDetector::instance()	16	static
+../Core/Src/NoiseFloorDetector.cpp:35:1:NoiseFloorDetector::NoiseFloorDetector()	8	static
+../Core/Src/NoiseFloorDetector.cpp:48:6:void NoiseFloorDetector::report(char, uint8_t)	0	static
+../Core/Src/NoiseFloorDetector.cpp:69:9:uint8_t NoiseFloorDetector::getNoiseFloor(char)	0	static
+../Core/Src/NoiseFloorDetector.cpp:101:6:void NoiseFloorDetector::dump()	16	static
+../Core/Src/NoiseFloorDetector.cpp:74:6:virtual void NoiseFloorDetector::processEvent(const Event&)	8	static
+../Core/Src/NoiseFloorDetector.cpp:120:6:void NoiseFloorDetector::recalculate()	0	static

@@ -1,0 +1,7 @@
+<map id="ObjectPool&lt; T &gt;" name="ObjectPool&lt; T &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="19,187,135,213"/>
+<area shape="rect" id="Node000002" href="$class_circular_queue.html" title=" " alt="" coords="5,96,149,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,138,80,186,74,186,74,138"/>
+<area shape="rect" id="Node000003" href="$class_circular_queue.html" title="A template&#45;based circular queue class for buffering elements." alt="" coords="10,5,144,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="80,48,80,95,74,95,74,48"/>
+</map>

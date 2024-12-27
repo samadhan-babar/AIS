@@ -1,0 +1,59 @@
+../Drivers/CMSIS/Include/core_cm4.h:1939:34:void __NVIC_SystemReset()	1
+../Core/Src/bsp/bsp_11_3.cpp:100:8:void Error_Handler(uint8_t)	1
+../Core/Src/bsp/bsp_11_3.cpp:251:6:void SystemClock_Config()	5
+../Core/Src/bsp/bsp_11_3.cpp:112:6:void bsp_hw_init()	8
+../Core/Src/bsp/bsp_11_3.cpp:318:6:void gpio_pin_init()	4
+../Core/Src/bsp/bsp_11_3.cpp:331:6:void HAL_MspInit()	1
+../Core/Src/bsp/bsp_11_3.cpp:367:6:bool bsp_is_tx_hardwired()	1
+../Core/Src/bsp/bsp_11_3.cpp:373:6:void bsp_erase_flash_station_data()	2
+../Core/Src/bsp/bsp_11_3.cpp:415:6:void bsp_read_station_data(StationData*)	1
+../Core/Src/bsp/bsp_11_3.cpp:429:6:void bsp_write_station_data(const StationData&)	3
+../Core/Src/bsp/bsp_11_3.cpp:440:6:void bsp_erase_station_data()	2
+../Core/Src/bsp/bsp_11_3.cpp:445:6:bool bsp_is_station_data_provisioned()	1
+../Core/Src/bsp/bsp_11_3.cpp:450:6:void bsp_read_config_flags(ConfigFlags*)	2
+../Core/Src/bsp/bsp_11_3.cpp:459:6:void bsp_write_config_flags(const ConfigFlags&)	2
+../Core/Src/bsp/bsp_11_3.cpp:471:6:void bsp_erase_config_flags()	2
+../Core/Src/bsp/bsp_11_3.cpp:477:6:void bsp_read_xo_trim(XOTrim*)	2
+../Core/Src/bsp/bsp_11_3.cpp:487:6:void bsp_write_xo_trim(const XOTrim&)	2
+../Core/Src/bsp/bsp_11_3.cpp:499:6:void bsp_erase_xo_trim()	2
+../Core/Src/bsp/bsp_11_3.cpp:505:6:void bsp_set_rx_mode()	1
+../Core/Src/bsp/bsp_11_3.cpp:516:6:void bsp_rx_led_on()	1
+../Core/Src/bsp/bsp_11_3.cpp:521:6:void bsp_rx_led_off()	1
+../Core/Src/bsp/bsp_11_3.cpp:526:6:void bsp_tx_led_on()	1
+../Core/Src/bsp/bsp_11_3.cpp:535:6:void bsp_tx_led_off()	1
+../Core/Src/bsp/bsp_11_3.cpp:544:6:void bsp_gps_led_on()	1
+../Core/Src/bsp/bsp_11_3.cpp:549:6:void bsp_gps_led_off()	1
+../Core/Src/bsp/bsp_11_3.cpp:554:6:void bsp_set_tx_mode()	1
+../Core/Src/bsp/bsp_11_3.cpp:566:6:void bsp_gnss_on()	1
+../Core/Src/bsp/bsp_11_3.cpp:571:6:void bsp_gnss_off()	1
+../Core/Src/bsp/bsp_11_3.cpp:576:6:bool bsp_is_gnss_on()	1
+../Core/Src/bsp/bsp_11_3.cpp:581:6:void USART_putc(USART_TypeDef*, char)	2
+../Core/Src/bsp/bsp_11_3.cpp:589:6:void bsp_write_char(char)	2
+../Core/Src/bsp/bsp_11_3.cpp:594:6:void bsp_write_string(const char*)	4
+../Core/Src/bsp/bsp_11_3.cpp:600:6:void bsp_start_wdt()	1
+../Core/Src/bsp/bsp_11_3.cpp:613:6:void bsp_refresh_wdt()	1
+../Core/Src/bsp/bsp_11_3.cpp:618:6:void bsp_set_gnss_input_callback(char_input_cb)	1
+../Core/Src/bsp/bsp_11_3.cpp:623:6:void bsp_set_terminal_input_callback(char_input_cb)	1
+../Core/Src/bsp/bsp_11_3.cpp:628:6:void bsp_set_tick_callback(irq_callback)	1
+../Core/Src/bsp/bsp_11_3.cpp:633:6:void bsp_start_sotdma_timer()	1
+../Core/Src/bsp/bsp_11_3.cpp:638:6:void bsp_stop_sotdma_timer()	1
+../Core/Src/bsp/bsp_11_3.cpp:643:6:void bsp_set_gnss_1pps_callback(irq_callback)	1
+../Core/Src/bsp/bsp_11_3.cpp:648:6:void bsp_set_trx_clk_callback(irq_callback)	1
+../Core/Src/bsp/bsp_11_3.cpp:653:6:void bsp_set_rx_clk_callback(irq_callback)	1
+../Core/Src/bsp/bsp_11_3.cpp:658:6:void bsp_set_gnss_sotdma_timer_callback(irq_callback)	1
+../Core/Src/bsp/bsp_11_3.cpp:663:10:uint32_t bsp_get_sotdma_timer_value()	1
+../Core/Src/bsp/bsp_11_3.cpp:668:6:void bsp_set_sotdma_timer_value(uint32_t)	1
+../Core/Src/bsp/bsp_11_3.cpp:673:10:uint32_t bsp_get_system_clock()	1
+../Core/Src/bsp/bsp_11_3.cpp:678:9:uint8_t bsp_tx_spi_byte(uint8_t)	1
+../Core/Src/bsp/bsp_11_3.cpp:685:6:void bsp_reboot()	0
+../Core/Src/bsp/bsp_11_3.cpp:690:6:bool bsp_is_tx_disabled()	1
+../Core/Src/bsp/bsp_11_3.cpp:695:6:void bsp_enter_dfu()	0
+../Core/Src/bsp/bsp_11_3.cpp:708:6:void bsp_signal_rx_event()	1
+../Core/Src/bsp/bsp_11_3.cpp:714:6:void bsp_signal_gps_status(bool)	1
+../Core/Src/bsp/bsp_11_3.cpp:722:8:void USART1_IRQHandler()	3
+../Core/Src/bsp/bsp_11_3.cpp:733:8:void EXTI2_IRQHandler()	3
+../Core/Src/bsp/bsp_11_3.cpp:743:8:void USART2_IRQHandler()	3
+../Core/Src/bsp/bsp_11_3.cpp:756:8:void TIM2_IRQHandler()	4
+../Core/Src/bsp/bsp_11_3.cpp:769:8:void EXTI3_IRQHandler()	3
+../Core/Src/bsp/bsp_11_3.cpp:779:8:void EXTI15_10_IRQHandler()	3
+../Core/Src/bsp/bsp_11_3.cpp:789:8:void HAL_SYSTICK_Callback()	2

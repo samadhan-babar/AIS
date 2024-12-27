@@ -1,0 +1,20 @@
+<map id="NoiseFloorDetector::getNoiseFloor" name="NoiseFloorDetector::getNoiseFloor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1245,23,1377,65"/>
+<area shape="rect" id="Node000002" href="$class_transceiver_a44547a633af1248750e5ead54f8ecc53.html#a44547a633af1248750e5ead54f8ecc53" title=" " alt="" coords="1039,31,1197,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1229,47,1197,47,1197,41,1229,41"/>
+<area shape="rect" id="Node000003" href="$class_radio_manager_a24800155c49ec7a85e840600fc22b387.html#a24800155c49ec7a85e840600fc22b387" title=" " alt="" coords="816,31,991,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1024,47,992,47,992,41,1024,41"/>
+<area shape="rect" id="Node000004" href="$_radio_manager_8cpp_ace1732163e7a9d315685becb79e6b21c.html#ace1732163e7a9d315685becb79e6b21c" title=" " alt="" coords="683,5,766,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="800,32,766,27,767,22,801,27"/>
+<area shape="rect" id="Node000009" href="$_radio_manager_8cpp_a7e1998ab35c07d8bbe244b5f3c9741fd.html#a7e1998ab35c07d8bbe244b5f3c9741fd" title=" " alt="" coords="681,56,768,83"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="801,61,769,66,768,61,800,56"/>
+<area shape="rect" id="Node000005" href="$class_radio_manager_ab94d31275d16af37906c88410c6ec3b2.html#ab94d31275d16af37906c88410c6ec3b2" title=" " alt="" coords="414,31,633,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="668,28,633,33,633,28,667,23"/>
+<area shape="rect" id="Node000006" href="$class_radio_manager_ab6f749b4acd4996e45b2e653cfffec09.html#ab6f749b4acd4996e45b2e653cfffec09" title=" " alt="" coords="228,31,366,57"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="399,47,366,47,366,41,399,41"/>
+<area shape="rect" id="Node000007" href="$main_8cpp_a0dcdcf298c511db74358109fc74547fa.html#a0dcdcf298c511db74358109fc74547fa" title=" " alt="" coords="103,31,180,57"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="212,47,180,47,180,41,212,41"/>
+<area shape="rect" id="Node000008" href="$main_8cpp_a840291bc02cba5474a4cb46a9b9566fe.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="5,31,55,57"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="87,47,55,47,55,41,87,41"/>
+<area shape="poly" id="edge9_Node000009_Node000005" title=" " alt="" coords="665,65,633,60,634,55,665,59"/>
+</map>

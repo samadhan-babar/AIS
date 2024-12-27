@@ -1,0 +1,4 @@
+../Core/Src/RXPacketProcessor.cpp:52:6:virtual void RXPacketProcessor::processEvent(const Event&)	14
+../Core/Src/RXPacketProcessor.cpp:39:1:RXPacketProcessor::RXPacketProcessor()	6
+../Core/Src/RXPacketProcessor.cpp:46:1:RXPacketProcessor::~RXPacketProcessor()	5
+../Core/Src/RXPacketProcessor.cpp:46:1:virtual RXPacketProcessor::~RXPacketProcessor()	5

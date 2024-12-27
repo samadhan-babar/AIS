@@ -1,0 +1,14 @@
+<map id="bsp_gnss_off" name="bsp_gnss_off">
+<area shape="rect" id="Node000001" title=" " alt="" coords="876,72,973,99"/>
+<area shape="rect" id="Node000002" href="$bsp__11__3_8cpp_ace52a4b62ecd697296fd66aaa533d357.html#ace52a4b62ecd697296fd66aaa533d357" title=" " alt="" coords="725,17,828,44"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="871,69,814,47,816,42,873,64"/>
+<area shape="rect" id="Node000004" href="$class_command_processor_a5007e78542ac1a704e87d1baefb134ae.html#a5007e78542ac1a704e87d1baefb134ae" title="Processes a given command string." alt="" coords="247,35,440,77"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="860,85,440,64,440,58,861,79"/>
+<area shape="rect" id="Node000006" href="$class_g_p_s_a7ac9bbb4f45cccf4025b4463363d88a1.html#a7ac9bbb4f45cccf4025b4463363d88a1" title=" " alt="" coords="727,123,826,149"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="869,107,819,125,817,120,868,102"/>
+<area shape="rect" id="Node000003" href="$class_command_processor_a166fd23ba8ea0d7f18c197ad3f91131d.html#a166fd23ba8ea0d7f18c197ad3f91131d" title="Jumps to the bootloader mode." alt="" coords="488,5,677,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="710,32,678,31,678,26,710,27"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="473,43,441,47,440,41,472,38"/>
+<area shape="rect" id="Node000005" href="$class_command_processor_ac33b101c0ddabc2a7512f8926c81375b.html#ac33b101c0ddabc2a7512f8926c81375b" title="Processes an incoming event." alt="" coords="5,35,199,77"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="231,59,199,59,199,53,231,53"/>
+</map>

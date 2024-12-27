@@ -1,0 +1,5 @@
+<map id="ChannelManager::instance" name="ChannelManager::instance">
+<area shape="rect" id="Node000001" title="Retrieves the singleton instance of the ChannelManager." alt="" coords="233,5,408,32"/>
+<area shape="rect" id="Node000002" href="$class_t_x_scheduler_ab1226cf9176a564c66503a9dc9a43934.html#ab1226cf9176a564c66503a9dc9a43934" title=" " alt="" coords="5,5,185,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,21,185,21,185,16,217,16"/>
+</map>

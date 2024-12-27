@@ -1,0 +1,7 @@
+<map id="Receiver" name="Receiver">
+<area shape="rect" id="Node000001" title=" " alt="" coords="39,96,110,123"/>
+<area shape="rect" id="Node000002" href="$class_r_f_i_c.html" title=" " alt="" coords="5,5,56,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="46,45,71,94,66,97,41,47"/>
+<area shape="rect" id="Node000003" href="$class_r_x_packet.html" title=" " alt="" coords="79,5,158,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="108,47,83,97,78,94,103,45"/>
+</map>

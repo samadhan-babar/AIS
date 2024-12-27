@@ -1,0 +1,12 @@
+<map id="RXPacket::slot" name="RXPacket::slot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="880,31,987,57"/>
+<area shape="rect" id="Node000002" href="$class_r_x_packet_a22aef2961a091399451e97babb335e18.html#a22aef2961a091399451e97babb335e18" title=" " alt="" coords="704,31,832,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="864,47,832,47,832,41,864,41"/>
+<area shape="rect" id="Node000003" href="$class_receiver_a2bd3c05e2ad7cfa620162df2745de1de.html#a2bd3c05e2ad7cfa620162df2745de1de" title=" " alt="" coords="488,31,656,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="689,47,657,47,657,41,689,41"/>
+<area shape="rect" id="Node000004" href="$class_transceiver_a043eecbf3550fa4443c2797b7ea15f42.html#a043eecbf3550fa4443c2797b7ea15f42" title=" " alt="" coords="256,5,440,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="472,35,440,32,441,26,473,30"/>
+<area shape="rect" id="Node000005" href="$class_radio_manager_afb7acf41597e1cc04c8c7d25db28576a.html#afb7acf41597e1cc04c8c7d25db28576a" title=" " alt="" coords="5,31,208,57"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="472,47,208,47,208,41,472,41"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="241,33,208,36,208,31,240,27"/>
+</map>

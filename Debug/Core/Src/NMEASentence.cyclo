@@ -1,0 +1,5 @@
+../Core/Src/NMEASentence.cpp:29:15:const std::string& NMEASentence::code() const	1
+../Core/Src/NMEASentence.cpp:34:15:const std::string& NMEASentence::raw() const	1
+../Core/Src/NMEASentence.cpp:39:23:const std::vector<std::__cxx11::basic_string<char> >& NMEASentence::fields() const	1
+../Core/Src/NMEASentence.cpp:44:6:bool NMEASentence::parse()	26
+../Core/Src/NMEASentence.cpp:23:1:NMEASentence::NMEASentence(const std::string&)	1

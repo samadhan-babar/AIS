@@ -1,0 +1,13 @@
+<map id="Event::reset" name="Event::reset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,96,57"/>
+<area shape="rect" id="Node000002" href="$class_event_pool_a345d331d74745532e20cc0da3e9da518.html#a345d331d74745532e20cc0da3e9da518" title=" " alt="" coords="169,5,305,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,35,153,27,154,33,97,41"/>
+<area shape="rect" id="Node000003" href="$class_event_pool_a08cc772609d3af58fd1396fda5134444.html#a08cc772609d3af58fd1396fda5134444" title=" " alt="" coords="144,56,330,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="97,47,129,52,128,57,96,53"/>
+<area shape="rect" id="Node000004" href="$class_object_pool_aff8f96c2487da234a53c10850d7eb511.html#aff8f96c2487da234a53c10850d7eb511" title=" " alt="" coords="378,56,489,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="330,67,363,67,363,72,330,72"/>
+<area shape="rect" id="Node000005" href="$class_circular_queue_a1a8861e8fb473f5b5164507e84624f3d.html#a1a8861e8fb473f5b5164507e84624f3d" title="Pushes an element onto the circular queue." alt="" coords="537,56,677,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="490,67,522,67,522,72,490,72"/>
+<area shape="rect" id="Node000006" href="$class_circular_queue_a454dc438e062f8af8bb576a57b7a32a6.html#a454dc438e062f8af8bb576a57b7a32a6" title="Checks if it is safe to write to the next position." alt="" coords="725,56,917,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="677,67,709,67,709,72,677,72"/>
+</map>

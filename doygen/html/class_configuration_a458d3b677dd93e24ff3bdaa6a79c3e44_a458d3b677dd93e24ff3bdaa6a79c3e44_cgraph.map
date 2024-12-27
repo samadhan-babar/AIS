@@ -1,0 +1,7 @@
+<map id="Configuration::eraseStationData" name="Configuration::eraseStationData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,210,32"/>
+<area shape="rect" id="Node000002" href="$bsp__11__3_8cpp_a695508c8aeb5e6936a6fba6ca0b29fa9.html#a695508c8aeb5e6936a6fba6ca0b29fa9" title=" " alt="" coords="258,5,417,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,16,242,16,242,21,210,21"/>
+<area shape="rect" id="Node000003" href="$bsp__11__3_8cpp_a40a939849c4990b3c1b8cf92ab495edb.html#a40a939849c4990b3c1b8cf92ab495edb" title=" " alt="" coords="465,5,619,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="417,16,450,16,450,21,417,21"/>
+</map>

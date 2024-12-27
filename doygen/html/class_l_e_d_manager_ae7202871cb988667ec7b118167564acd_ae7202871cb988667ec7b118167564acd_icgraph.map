@@ -1,0 +1,12 @@
+<map id="LEDManager::instance" name="LEDManager::instance">
+<area shape="rect" id="Node000001" title=" " alt="" coords="506,5,659,32"/>
+<area shape="rect" id="Node000002" href="$main_8cpp_a0dcdcf298c511db74358109fc74547fa.html#a0dcdcf298c511db74358109fc74547fa" title=" " alt="" coords="103,5,180,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="490,21,181,21,181,16,490,16"/>
+<area shape="rect" id="Node000004" href="$_l_e_d_manager_8cpp_af44c19dcc27dcf85fd59c4e55d9a2783.html#af44c19dcc27dcf85fd59c4e55d9a2783" title=" " alt="" coords="397,31,458,57"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="491,36,458,42,458,37,490,31"/>
+<area shape="rect" id="Node000003" href="$main_8cpp_a840291bc02cba5474a4cb46a9b9566fe.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="5,5,55,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,21,55,21,55,16,87,16"/>
+<area shape="rect" id="Node000005" href="$class_l_e_d_manager_a8987a39e5b49ff28d61a2e2787dd17a9.html#a8987a39e5b49ff28d61a2e2787dd17a9" title=" " alt="" coords="228,31,349,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="382,47,350,47,350,41,382,41"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="212,34,180,28,181,23,213,28"/>
+</map>

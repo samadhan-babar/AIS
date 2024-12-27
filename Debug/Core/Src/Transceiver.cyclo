@@ -1,0 +1,19 @@
+../Core/Src/Transceiver.cpp:330:6:virtual void Transceiver::configureGPIOsForRX()	1
+../Core/Inc/Transceiver.hpp:29:7:Transceiver::~Transceiver()	1
+../Core/Inc/Transceiver.hpp:29:7:virtual Transceiver::~Transceiver()	1
+../Core/Src/Transceiver.cpp:104:6:virtual void Transceiver::processEvent(const Event&)	2
+../Core/Inc/Transceiver.hpp:29:7:virtual void* Transceiver::_ZThn84_N11TransceiverD1Ev()	1
+../Core/Inc/Transceiver.hpp:29:7:virtual void* Transceiver::_ZThn84_N11TransceiverD0Ev()	1
+../Core/Inc/Transceiver.hpp:49:8:virtual void Transceiver::_ZThn84_N11Transceiver12processEventERK5Event(const Event&)	2
+../Core/Src/Transceiver.cpp:32:1:Transceiver::Transceiver(GPIO_TypeDef*, uint32_t, GPIO_TypeDef*, uint32_t, GPIO_TypeDef*, uint32_t, GPIO_TypeDef*, uint32_t, int)	1
+../Core/Src/Transceiver.cpp:139:6:void Transceiver::setTXPower(const pa_params&)	1
+../Core/Src/Transceiver.cpp:152:6:void Transceiver::configureGPIOsForTX()	1
+../Core/Src/Transceiver.cpp:172:6:void Transceiver::assignTXPacket(TXPacket*)	2
+../Core/Src/Transceiver.cpp:179:11:TXPacket* Transceiver::assignedTXPacket()	1
+../Core/Src/Transceiver.cpp:299:6:void Transceiver::startTransmitting()	1
+../Core/Src/Transceiver.cpp:349:6:void Transceiver::reportTXEvent()	2
+../Core/Src/Transceiver.cpp:44:6:virtual void Transceiver::configure()	1
+../Core/Src/Transceiver.cpp:325:6:virtual void Transceiver::startReceiving(VHFChannel, bool)	1
+../Core/Src/Transceiver.cpp:116:6:void Transceiver::transmitCW(VHFChannel)	2
+../Core/Src/Transceiver.cpp:187:6:virtual void Transceiver::onBitClock()	19
+../Core/Src/Transceiver.cpp:290:6:virtual void Transceiver::timeSlotStarted(uint32_t)	5

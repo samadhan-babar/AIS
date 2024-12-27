@@ -1,0 +1,11 @@
+<map id="LEDManager::onTick" name="LEDManager::onTick">
+<area shape="rect" id="Node000001" title=" " alt="" coords="506,5,648,32"/>
+<area shape="rect" id="Node000002" href="$_l_e_d_manager_8cpp_af44c19dcc27dcf85fd59c4e55d9a2783.html#af44c19dcc27dcf85fd59c4e55d9a2783" title=" " alt="" coords="397,5,458,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="490,21,458,21,458,16,490,16"/>
+<area shape="rect" id="Node000003" href="$class_l_e_d_manager_a8987a39e5b49ff28d61a2e2787dd17a9.html#a8987a39e5b49ff28d61a2e2787dd17a9" title=" " alt="" coords="228,5,349,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="382,21,350,21,350,16,382,16"/>
+<area shape="rect" id="Node000004" href="$main_8cpp_a0dcdcf298c511db74358109fc74547fa.html#a0dcdcf298c511db74358109fc74547fa" title=" " alt="" coords="103,5,180,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="212,21,180,21,180,16,212,16"/>
+<area shape="rect" id="Node000005" href="$main_8cpp_a840291bc02cba5474a4cb46a9b9566fe.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="5,5,55,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="87,21,55,21,55,16,87,16"/>
+</map>

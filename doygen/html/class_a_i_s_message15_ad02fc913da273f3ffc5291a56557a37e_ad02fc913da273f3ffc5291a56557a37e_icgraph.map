@@ -1,0 +1,5 @@
+<map id="AISMessage15::decode" name="AISMessage15::decode">
+<area shape="rect" id="Node000001" title="Decodes a received packet containing AIS message 15." alt="" coords="199,13,358,40"/>
+<area shape="rect" id="Node000002" href="$class_r_x_packet_processor_a5aa161e2a075b6e526067d66d7777121.html#a5aa161e2a075b6e526067d66d7777121" title=" " alt="" coords="5,5,151,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,29,151,29,151,24,183,24"/>
+</map>

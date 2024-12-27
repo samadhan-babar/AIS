@@ -1,0 +1,5 @@
+<map id="AISMessage24B" name="AISMessage24B">
+<area shape="rect" id="Node000001" title="Class for handling AIS message 24B (station metadata part B)." alt="" coords="5,80,124,107"/>
+<area shape="rect" id="Node000002" href="$class_a_i_s_message.html" title="Base class for handling AIS messages." alt="" coords="17,5,112,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,48,67,80,62,80,62,48"/>
+</map>

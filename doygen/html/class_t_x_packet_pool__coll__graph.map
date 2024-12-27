@@ -1,0 +1,16 @@
+<map id="TXPacketPool" name="TXPacketPool">
+<area shape="rect" id="Node000001" title=" " alt="" coords="99,368,202,395"/>
+<area shape="rect" id="Node000002" href="$class_object_pool.html" title=" " alt="" coords="68,277,233,304"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,320,153,367,148,367,148,320"/>
+<area shape="rect" id="Node000003" href="$class_circular_queue.html" title=" " alt="" coords="5,96,197,123"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,137,149,276,144,278,106,138"/>
+<area shape="rect" id="Node000004" href="$class_t_x_packet.html" title=" " alt="" coords="54,5,130,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="94,47,96,72,100,95,95,96,90,72,89,47"/>
+<area shape="rect" id="Node000005" href="$class_circular_queue.html" title="A template&#45;based circular queue class for buffering elements." alt="" coords="190,5,324,32"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="211,41,176,58,118,98,115,93,173,54,209,36"/>
+<area shape="rect" id="Node000007" href="$class_circular_queue.html" title=" " alt="" coords="221,96,365,123"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="270,46,290,94,285,96,265,48"/>
+<area shape="rect" id="Node000006" href="$class_object_pool.html" title=" " alt="" coords="220,187,337,213"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="249,225,170,279,167,275,246,220"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="291,139,283,187,278,186,286,138"/>
+</map>

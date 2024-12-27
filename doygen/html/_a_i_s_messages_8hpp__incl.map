@@ -1,0 +1,54 @@
+<map id="D:/Organised/Development/C CPP/STM32 WorkSpace/ais_transponder/Core/Inc/AISMessages.hpp" name="D:/Organised/Development/C CPP/STM32 WorkSpace/ais_transponder/Core/Inc/AISMessages.hpp">
+<area shape="rect" id="Node000001" title="Defines AIS message types and encoding/decoding logic for the Marine Automatic Identification System ..." alt="" coords="512,5,694,80"/>
+<area shape="rect" id="Node000002" href="$_t_x_packet_8hpp.html" title=" " alt="" coords="465,128,566,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="572,82,539,118,535,114,568,78"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="653,352,706,379"/>
+<area shape="poly" id="edge29_Node000001_Node000014" title=" " alt="" coords="696,73,730,96,756,127,768,155,770,185,767,215,757,245,730,299,701,341,697,338,726,297,753,243,761,214,765,185,762,156,752,129,726,100,693,77"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="648,203,705,229"/>
+<area shape="poly" id="edge28_Node000001_Node000017" title=" " alt="" coords="610,80,618,116,631,153,656,189,651,192,626,156,613,118,605,81"/>
+<area shape="rect" id="Node000018" href="$_r_x_packet_8hpp.html" title=" " alt="" coords="298,128,402,155"/>
+<area shape="poly" id="edge22_Node000001_Node000018" title=" " alt="" coords="512,81,398,124,397,119,511,76"/>
+<area shape="rect" id="Node000019" href="$_station_data_8h.html" title=" " alt="" coords="641,128,741,155"/>
+<area shape="poly" id="edge30_Node000001_Node000019" title=" " alt="" coords="639,78,671,114,668,118,635,82"/>
+<area shape="rect" id="Node000003" href="$_object_pool_8hpp.html" title=" " alt="" coords="332,203,442,229"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="494,158,424,197,422,192,492,153"/>
+<area shape="rect" id="Node000005" href="$config_8h.html" title=" " alt="" coords="357,352,423,379"/>
+<area shape="poly" id="edge20_Node000002_Node000005" title=" " alt="" coords="515,156,494,222,476,265,453,306,419,344,415,340,449,302,471,262,489,221,510,154"/>
+<area shape="rect" id="Node000016" href="$_a_i_s_channels_8h.html" title="Defines AIS VHF channel mappings and utilities for Marine Automatic Identification System firmware." alt="" coords="516,203,624,229"/>
+<area shape="poly" id="edge18_Node000002_Node000016" title=" " alt="" coords="527,154,553,188,549,192,523,157"/>
+<area shape="poly" id="edge21_Node000002_Node000017" title=" " alt="" coords="544,153,636,193,633,198,542,158"/>
+<area shape="rect" id="Node000004" href="$printf__serial_8h.html" title=" " alt="" coords="341,277,439,304"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="390,230,392,262,386,262,385,230"/>
+<area shape="rect" id="Node000010" href="$__assert_8h.html" title="Header file for assertion macros in the Marine Automatic Identification System firmware." alt="" coords="36,352,112,379"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="332,220,284,225,231,235,177,252,128,279,102,307,86,339,81,337,98,304,124,275,175,247,230,230,284,220,331,215"/>
+<area shape="rect" id="Node000011" href="$_circular_queue_8hpp.html" title="Defines a template&#45;based circular queue class for managing buffered data." alt="" coords="138,277,266,304"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="356,232,249,274,247,269,354,227"/>
+<area shape="rect" id="Node000013" href="$_utils_8hpp.html" title=" " alt="" coords="514,277,586,304"/>
+<area shape="poly" id="edge14_Node000003_Node000013" title=" " alt="" coords="417,227,509,268,506,273,415,232"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="393,305,393,336,387,336,387,305"/>
+<area shape="rect" id="Node000006" href="$radio__config_8h.html" title="This file contains the automatically generated configurations." alt="" coords="186,427,287,453"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="364,382,278,422,276,417,362,377"/>
+<area shape="rect" id="Node000008" href="$_t_x_power_settings_8h.html" title=" " alt="" coords="379,427,510,453"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="402,378,428,412,424,416,397,381"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="160,501,225,528"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="231,455,210,489,206,487,227,452"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="517,501,596,528"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="466,452,526,490,523,495,463,456"/>
+<area shape="poly" id="edge11_Node000011_Node000007" title=" " alt="" coords="197,306,185,327,177,353,170,402,177,453,185,486,180,487,171,454,165,402,171,351,181,325,192,303"/>
+<area shape="poly" id="edge13_Node000011_Node000010" title=" " alt="" coords="181,307,111,346,108,342,178,302"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="186,352,253,379"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="208,304,215,336,210,337,202,305"/>
+<area shape="poly" id="edge17_Node000013_Node000009" title=" " alt="" coords="553,304,558,486,553,486,548,305"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="574,302,645,342,642,346,571,307"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="464,352,519,379"/>
+<area shape="poly" id="edge16_Node000013_Node000015" title=" " alt="" coords="542,306,513,341,509,338,538,303"/>
+<area shape="poly" id="edge19_Node000016_Node000009" title=" " alt="" coords="580,228,591,250,601,277,605,336,598,395,585,447,570,488,565,486,580,446,593,394,600,336,595,278,586,252,575,231"/>
+<area shape="poly" id="edge27_Node000018_Node000003" title=" " alt="" coords="359,154,376,188,372,190,354,156"/>
+<area shape="poly" id="edge26_Node000018_Node000005" title=" " alt="" coords="344,156,333,178,323,203,321,228,323,259,331,303,345,323,362,340,358,344,340,326,326,305,318,260,316,228,318,202,328,175,340,154"/>
+<area shape="poly" id="edge23_Node000018_Node000009" title=" " alt="" coords="298,152,223,170,183,185,146,205,85,243,34,284,17,306,9,328,12,352,27,377,47,391,77,401,155,412,237,416,300,424,334,437,368,451,503,495,502,500,366,456,333,442,299,429,237,421,154,417,75,406,44,396,23,380,6,353,4,327,12,303,30,281,82,239,143,200,181,180,222,165,297,147"/>
+<area shape="poly" id="edge24_Node000018_Node000010" title=" " alt="" coords="303,158,254,175,199,200,145,235,120,256,99,279,84,307,78,337,73,336,79,305,94,276,116,252,141,230,196,196,252,170,301,153"/>
+<area shape="poly" id="edge25_Node000018_Node000016" title=" " alt="" coords="389,153,518,195,516,200,387,158"/>
+<area shape="poly" id="edge31_Node000019_Node000009" title=" " alt="" coords="701,154,729,211,741,249,746,289,746,367,742,392,733,414,718,434,699,452,656,480,611,499,609,494,653,475,696,447,714,431,728,411,737,390,741,366,741,289,736,250,724,213,697,156"/>
+<area shape="poly" id="edge33_Node000019_Node000016" title=" " alt="" coords="672,158,606,197,603,192,669,153"/>
+<area shape="poly" id="edge32_Node000019_Node000017" title=" " alt="" coords="691,156,685,188,680,187,686,155"/>
+</map>

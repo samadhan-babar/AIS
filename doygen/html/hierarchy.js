@@ -1,0 +1,78 @@
+var hierarchy =
+[
+    [ "ais_channel", "structais__channel.html", null ],
+    [ "AISMessage", "class_a_i_s_message.html", [
+      [ "AISMessage15", "class_a_i_s_message15.html", null ],
+      [ "AISMessage18", "class_a_i_s_message18.html", null ],
+      [ "AISMessage24A", "class_a_i_s_message24_a.html", null ],
+      [ "AISMessage24B", "class_a_i_s_message24_b.html", null ]
+    ] ],
+    [ "CHIP_STATUS_REPLY", "struct_c_h_i_p___s_t_a_t_u_s___r_e_p_l_y.html", null ],
+    [ "CircularQueue< T >", "class_circular_queue.html", null ],
+    [ "CircularQueue< Event * >", "class_circular_queue.html", null ],
+    [ "CircularQueue< RXPacket * >", "class_circular_queue.html", null ],
+    [ "CircularQueue< T * >", "class_circular_queue.html", null ],
+    [ "CircularQueue< TXPacket * >", "class_circular_queue.html", null ],
+    [ "ClockTick", "struct_clock_tick.html", null ],
+    [ "ConfigFlags", "struct_config_flags.html", null ],
+    [ "ConfigPage", "union_config_page.html", null ],
+    [ "Configuration", "class_configuration.html", null ],
+    [ "DebugMessage", "struct_debug_message.html", null ],
+    [ "DEVICE_STATE", "struct_d_e_v_i_c_e___s_t_a_t_e.html", null ],
+    [ "Event", "class_event.html", null ],
+    [ "EventConsumer", "class_event_consumer.html", [
+      [ "ChannelManager", "class_channel_manager.html", null ],
+      [ "CommandProcessor", "class_command_processor.html", null ],
+      [ "DataTerminal", "class_data_terminal.html", null ],
+      [ "GPS", "class_g_p_s.html", null ],
+      [ "NoiseFloorDetector", "class_noise_floor_detector.html", null ],
+      [ "RXPacketProcessor", "class_r_x_packet_processor.html", null ],
+      [ "RadioManager", "class_radio_manager.html", null ],
+      [ "TXScheduler", "class_t_x_scheduler.html", null ],
+      [ "Transceiver", "class_transceiver.html", null ]
+    ] ],
+    [ "EventPool", "class_event_pool.html", null ],
+    [ "EventQueue", "class_event_queue.html", null ],
+    [ "GET_PROPERTY_REPLY", "struct_g_e_t___p_r_o_p_e_r_t_y___r_e_p_l_y.html", null ],
+    [ "GET_PROPERTY_REQUEST", "struct_g_e_t___p_r_o_p_e_r_t_y___r_e_q_u_e_s_t.html", null ],
+    [ "GPIO", "struct_g_p_i_o.html", null ],
+    [ "GPIO_PIN_CFG_PARAMS", "struct_g_p_i_o___p_i_n___c_f_g___p_a_r_a_m_s.html", null ],
+    [ "GPSDelegate", "class_g_p_s_delegate.html", [
+      [ "RadioManager", "class_radio_manager.html", null ]
+    ] ],
+    [ "GPSFix", "struct_g_p_s_fix.html", null ],
+    [ "INT_STATUS_REPLY", "struct_i_n_t___s_t_a_t_u_s___r_e_p_l_y.html", null ],
+    [ "Interrogation", "struct_interrogation.html", null ],
+    [ "AISMessage15::InterrogationTarget", "struct_a_i_s_message15_1_1_interrogation_target.html", null ],
+    [ "LEDManager", "class_l_e_d_manager.html", null ],
+    [ "MODEM_STATUS_REPLY", "struct_m_o_d_e_m___s_t_a_t_u_s___r_e_p_l_y.html", null ],
+    [ "NMEABuffer", "struct_n_m_e_a_buffer.html", null ],
+    [ "NMEAEncoder", "class_n_m_e_a_encoder.html", null ],
+    [ "NMEASentence", "class_n_m_e_a_sentence.html", null ],
+    [ "ObjectPool< T >", "class_object_pool.html", null ],
+    [ "ObjectPool< Event >", "class_object_pool.html", null ],
+    [ "ObjectPool< RXPacket >", "class_object_pool.html", null ],
+    [ "ObjectPool< TXPacket >", "class_object_pool.html", null ],
+    [ "OTPData", "struct_o_t_p_data.html", null ],
+    [ "pa_params", "structpa__params.html", null ],
+    [ "RXPacketProcessor::PacketStats", "class_r_x_packet_processor_1_1_packet_stats.html", null ],
+    [ "PART_INFO_REPLY", "struct_p_a_r_t___i_n_f_o___r_e_p_l_y.html", null ],
+    [ "POWER_UP_PARAMS", "struct_p_o_w_e_r___u_p___p_a_r_a_m_s.html", null ],
+    [ "RFIC", "class_r_f_i_c.html", [
+      [ "Receiver", "class_receiver.html", [
+        [ "Transceiver", "class_transceiver.html", null ]
+      ] ]
+    ] ],
+    [ "RSSISample", "struct_r_s_s_i_sample.html", null ],
+    [ "RX_OPTIONS", "struct_r_x___o_p_t_i_o_n_s.html", null ],
+    [ "RXPacket", "class_r_x_packet.html", null ],
+    [ "SET_PROPERTY_PARAMS", "struct_s_e_t___p_r_o_p_e_r_t_y___p_a_r_a_m_s.html", null ],
+    [ "StationData", "struct_station_data.html", null ],
+    [ "StationDataPage", "union_station_data_page.html", null ],
+    [ "SystickTimer", "class_systick_timer.html", null ],
+    [ "TX_OPTIONS", "struct_t_x___o_p_t_i_o_n_s.html", null ],
+    [ "TXPacket", "class_t_x_packet.html", null ],
+    [ "TXPacketPool", "class_t_x_packet_pool.html", null ],
+    [ "Utils", "class_utils.html", null ],
+    [ "XOTrim", "struct_x_o_trim.html", null ]
+];

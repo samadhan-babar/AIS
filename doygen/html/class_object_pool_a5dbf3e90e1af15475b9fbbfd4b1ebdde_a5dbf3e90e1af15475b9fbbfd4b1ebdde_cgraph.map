@@ -1,0 +1,7 @@
+<map id="ObjectPool::get" name="ObjectPool::get">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,117,32"/>
+<area shape="rect" id="Node000002" href="$class_circular_queue_a59d3c58687ece5cf2786007e2a76925c.html#a59d3c58687ece5cf2786007e2a76925c" title="Pops an element from the circular queue." alt="" coords="165,5,297,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,16,149,16,149,21,117,21"/>
+<area shape="rect" id="Node000003" href="$class_circular_queue_a53902e1ca611014a0c27b95c25b49c6e.html#a53902e1ca611014a0c27b95c25b49c6e" title="Checks if the circular queue is empty." alt="" coords="345,5,492,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="297,16,329,16,329,21,297,21"/>
+</map>
